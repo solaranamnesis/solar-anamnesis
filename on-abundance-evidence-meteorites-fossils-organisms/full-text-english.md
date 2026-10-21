@@ -138,7 +138,7 @@ Annotated Album: https://flic.kr/s/aHBqjAFsqx
 
 ...
 
-# Unaltered Meteorites and their Microfossils.
+# Unaltered Meteorites and their Fossils.
 
 ...
 
