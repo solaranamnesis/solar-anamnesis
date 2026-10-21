@@ -6,6 +6,12 @@
 
 ---
 
+# Introduction.
+
+Imagine being an extraterrestrial on another world, intelligent enough to slice thin sections of rocks and analyze them in a microscope. Now what if a large boulder of fossiliferous material ejected from a terrestrial deposit some past eons ago landed on this world. These extraterrestrials would slice this rock and notice the tiny nummulites in the stone. Now the question is: how would they react to such rock that landed upon their world, containing small animals from a remote world unknown to them? Would they classify them as organic species, perhaps similar to themselves? Or would they say these are special types of crystallization inclusions, which although have not been reproduced artificially by melting the same material (as if one could simply take all the atoms of a nummulite fossil, melt it and come up with the original fossil), that have been formed through processes occurring in the extraordinary low pressures of a proto-planetray nebula? (And again if in the proto-planetary nebula then take the same material, melt it and combine it in the same pressures and conditions and give me the thin sections to photograph.)
+
+...
+
 # Summary of Literature related to Discoveries of Fossilized Life in Meteorites.
 
 ### 1794 - [On the Origin of the Iron Masses Discovered by Pallas and others like them, and on some Related Natural Phenomena](https://github.com/solaranamnesis/Ernst-Florens-Friedrich-Chladni/blob/main/pallas-eisenmassen/full-text-german.md) by Ernst Florens Friedrich Chladni
