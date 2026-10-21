@@ -192,10 +192,10 @@ Annotated Album: https://flic.kr/s/aHBqjAFsqx
 
 ...
 
-# Panspermia and the transfer of Living or Viable Organisms and their Spores between Stars.
+# Panspermia and the transfer of Organisms and their Spores between Stars.
 
 ...
 
-# Panspermia and the transfer of Living or Viable Organisms and their Spores between Galaxies.
+# Panspermia and the transfer of Organisms and their Spores between Galaxies.
 
 ...
