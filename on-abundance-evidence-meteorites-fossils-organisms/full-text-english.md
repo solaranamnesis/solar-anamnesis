@@ -6,7 +6,7 @@
 
 ---
 
-# Summary of the Literature related to Discoveries of Fossilized Life in Meteorites.
+# Summary of Literature related to Discoveries of Fossilized Life in Meteorites.
 
 ### 1794 - [On the Origin of the Iron Masses Discovered by Pallas and others like them, and on some Related Natural Phenomena](https://github.com/solaranamnesis/Ernst-Florens-Friedrich-Chladni/blob/main/pallas-eisenmassen/full-text-german.md) by Ernst Florens Friedrich Chladni
 
