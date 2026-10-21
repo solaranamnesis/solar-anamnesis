@@ -102,39 +102,7 @@ TODO: add summaries for each related to topic.
 
 ---
 
-# Altered Meteorites and their Fossils.
-
-## Knyahinya.
-
-## Julesberg.
-
-## Saratov.
-
-## Korra Korrabes.
-
-## Moorabie.
-
-## Northwest Africa 7171.
-
-## Northwest Africa 12692.
-
-## Northwest Africa 8773.
-
-## Northwest Africa 4723.
-
-## Northwest Africa 2892.
-
-## Northwest Africa 4910.
-
-## Northwest Africa 5930.
-
-## Northwest Africa 7859.
-
-## Northwest Africa 10669.
-
-...
-
-# Annotated Microphotographs and Illustrations by Solar Anamnesis.
+# Annotated Microphotographs and Illustrations.
 
 ## Structure A.
 
@@ -165,6 +133,38 @@ https://flic.kr/s/aHsmWVLJ5T
 
 Annotated Album: https://flic.kr/s/aHBqjAFsqx
 
+
+...
+
+# Altered Meteorites and their Fossils.
+
+## Knyahinya.
+
+## Julesberg.
+
+## Saratov.
+
+## Korra Korrabes.
+
+## Moorabie.
+
+## Northwest Africa 7171.
+
+## Northwest Africa 12692.
+
+## Northwest Africa 8773.
+
+## Northwest Africa 4723.
+
+## Northwest Africa 2892.
+
+## Northwest Africa 4910.
+
+## Northwest Africa 5930.
+
+## Northwest Africa 7859.
+
+## Northwest Africa 10669.
 
 ...
 
