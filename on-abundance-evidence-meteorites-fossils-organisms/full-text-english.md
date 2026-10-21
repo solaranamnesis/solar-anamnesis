@@ -191,11 +191,3 @@ Annotated Album: https://flic.kr/s/aHBqjAFsqx
 ### Northwest Africa 3118.
 
 ...
-
-# Panspermia and the transfer of Organisms and their Spores between Stars.
-
-...
-
-# Panspermia and the transfer of Organisms and their Spores between Galaxies.
-
-...
