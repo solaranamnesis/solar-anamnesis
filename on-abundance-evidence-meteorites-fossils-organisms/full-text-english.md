@@ -6,7 +6,7 @@
 
 ---
 
-# Summary of the Literature pertaining to Discoveries of Life in Meteorites.
+# Summary of the Literature related to Discoveries of Fossilized Life in Meteorites.
 
 ### 1794 - [On the Origin of the Iron Masses Discovered by Pallas and others like them, and on some Related Natural Phenomena](https://github.com/solaranamnesis/Ernst-Florens-Friedrich-Chladni/blob/main/pallas-eisenmassen/full-text-german.md) by Ernst Florens Friedrich Chladni
 
@@ -102,6 +102,8 @@ TODO: add summaries for each related to topic.
 
 ---
 
+# Altered Meteorites and their Fossils.
+
 # Annotated Microphotographs and Illustrations by Solar Anamnesis.
 
 ## Structure A.
@@ -133,5 +135,17 @@ https://flic.kr/s/aHsmWVLJ5T
 
 Annotated Album: https://flic.kr/s/aHBqjAFsqx
 
+
+...
+
+# Unaltered Meteorites and their Microfossils.
+
+...
+
+# Panspermia and the transfer of Living or Viable Organisms and their Spores between Stars.
+
+...
+
+# Panspermia and the transfer of Living or Viable Organisms and their Spores between Galaxies.
 
 ...
