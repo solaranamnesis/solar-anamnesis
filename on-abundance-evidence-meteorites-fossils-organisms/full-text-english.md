@@ -104,11 +104,29 @@ TODO: add summaries for each related to topic.
 
 # Annotated Photographs and Sketches by Solar Anamnesis.
 
-## Structure A
+## Structure A.
 
+https://flic.kr/s/aHsmGQBSBE
 
-## Structure B
+## Structure B.
 
+https://flic.kr/s/aHsmJ1mjBw
+
+## Structure C.
+
+https://flic.kr/s/aHsmNZyt6w
+
+## Structure D.
+
+https://flic.kr/s/aHsmRWZ6Fm
+
+## Structure E.
+
+https://flic.kr/s/aHsmSjWMBi
+
+## Structure F.
+
+https://flic.kr/s/aHsmWVLJ5T
 
 ...
 
