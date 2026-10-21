@@ -102,7 +102,7 @@ TODO: add summaries for each related to topic.
 
 ---
 
-# Annotated Photographs and Sketches by Solar Anamnesis.
+# Annotated Microphotographs and Illustrations by Solar Anamnesis.
 
 ## Structure A.
 
