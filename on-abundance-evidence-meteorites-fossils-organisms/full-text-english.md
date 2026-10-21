@@ -1,4 +1,4 @@
-# On the Abundance of Evidence that some Meteorites contain various Fossils of unidentified Organisms.
+# On the Abundant Evidence that certain Meteorites contain various Fossils of unidentified Organisms and their Parts.
 
 ## By Solar Anamnesis.
 
