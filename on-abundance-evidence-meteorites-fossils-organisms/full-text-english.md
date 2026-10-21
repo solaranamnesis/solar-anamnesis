@@ -114,23 +114,23 @@ TODO: add summaries for each related to topic.
 
 ## Moorabie.
 
-## Northwest Africa 7171
+## Northwest Africa 7171.
 
-## Northwest Africa 12692
+## Northwest Africa 12692.
 
-## Northwest Africa 8773
+## Northwest Africa 8773.
 
-## Northwest Africa 4723
+## Northwest Africa 4723.
 
-## Northwest Africa 2892
+## Northwest Africa 2892.
 
-## Northwest Africa 4910
+## Northwest Africa 4910.
 
-## Northwest Africa 5930
+## Northwest Africa 5930.
 
-## Northwest Africa 7859
+## Northwest Africa 7859.
 
-## Northwest Africa 10669
+## Northwest Africa 10669.
 
 ...
 
@@ -186,9 +186,9 @@ Annotated Album: https://flic.kr/s/aHBqjAFsqx
 
 ### Allende.
 
-### Northwest Africa 2224
+### Northwest Africa 2224.
 
-### Northwest Africa 3118
+### Northwest Africa 3118.
 
 ...
 
