@@ -186,6 +186,12 @@ Annotated Album: https://flic.kr/s/aHBqjAFsqx
 
 ## Northwest Africa 10669.
 
+### Allende.
+
+### Northwest Africa 2224.
+
+### Northwest Africa 3118.
+
 ...
 
 # Unaltered Meteorites and their Fossils.
@@ -201,13 +207,5 @@ Annotated Album: https://flic.kr/s/aHBqjAFsqx
 ### Moss.
 
 ### Murchison.
-
-## Macrofossils.
-
-### Allende.
-
-### Northwest Africa 2224.
-
-### Northwest Africa 3118.
 
 ...
