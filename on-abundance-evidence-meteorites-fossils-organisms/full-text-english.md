@@ -26,7 +26,7 @@ Knowing all the above, it then should be a quick matter to determine if a meteor
 
 But luckily we have new researchers, and those from earlier, such as Kirkpatrick, Hoyle, Wickramasinghe, Hoover, Pflug, Wainwright, Claus, Nagy, and others who have carried the baton and now hand it off to future inquisitive minds to lead science into the future.
 
-The entire classification of meteorites as known today is based on a fundamental ignorance and rejection that any meteorites contain fossils. Due to this it is a false classification. If one realizes the organic nature of certain meteorites and what they contain, then a more correct classification of meteorites can be obtained. Certainly so since as it is known on Earth many geological connections are made based solely on the morphological features of the organisms in the layer! 
+The entire classification of meteorites as known today is based on a fundamental ignorance and rejection that any meteorites contain fossils. Due to this it is a false classification system and must be either amended or rejected outright. If one realizes the organic nature of certain meteorites and what they contain, then a more correct classification of meteorites can be obtained. Certainly so since as it is known on Earth many geological connections are made based solely on the morphological features of the organisms in the layer! 
 
 # Summary of Literature related to Discoveries of Fossilized Life in Meteorites.
 
