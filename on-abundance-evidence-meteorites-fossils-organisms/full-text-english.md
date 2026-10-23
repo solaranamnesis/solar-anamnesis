@@ -184,6 +184,8 @@ Annotated Album: https://flic.kr/s/aHBqjAFsqx
 
 Compare with Reef Sediment: Carbonaceous rock with shell fragments. Hannes Grobe/AWI, CC BY 4.0, via Wikimedia Commons.
 
+Compare with Nummulitic Chalk Thin Section, from Fly by Weesen, Germany/Switzerland (1923). Leo Wehrli, CC BY-SA 4.0, via Wikimedia Commons.
+
 ## Knyahinya.
 
 ## Julesberg.
@@ -197,8 +199,6 @@ Compare with Reef Sediment: Carbonaceous rock with shell fragments. Hannes Grobe
 ## Northwest Africa 7302.
 
 Compare with Figure 7 from "A Guide to the Fossil Invertebrate Animals in the Department of Geology and Palaeontology in the British Museum of Natural History" entitled "Radiolarian rock from the Lower Culm at Carzantic Quarry, near Launceston, Cornwall."
-
-Compare with Nummulitic Chalk Thin Section, from Fly by Weesen, Germany/Switzerland (1923). Leo Wehrli, CC BY-SA 4.0, via Wikimedia Commons.
 
 ## Northwest Africa 7171.
 
