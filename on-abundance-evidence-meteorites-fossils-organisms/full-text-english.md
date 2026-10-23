@@ -174,6 +174,10 @@ Annotated Album: https://flic.kr/s/aHBqjAFsqx
 
 ## Moorabie.
 
+## Northwest Africa 7302.
+
+Compare with Figure 7 from "A Guide to the Fossil Invertebrate Animals in the Department of Geology and Palaeontology in the British Museum of Natural History" entitled "Radiolarian rock from the Lower Culm at Carzantic Quarry, near Launceston, Cornwall."
+
 ## Northwest Africa 7171.
 
 ## Northwest Africa 12692.
