@@ -28,6 +28,8 @@ But luckily we have new researchers, and those from earlier, such as Kirkpatrick
 
 The entire classification of meteorites as known today is based on a fundamental ignorance and rejection that any meteorites contain fossils. Due to this it is a false classification system and must be either amended or rejected outright. If one realizes the organic nature of certain meteorites and what they contain, then a more correct classification of meteorites can be obtained. Certainly so since as it is known on Earth many geological connections are made based solely on the morphological features of the organisms in the layer! Just recall that geologists identify geologic layers by matching fossils in a layer to known index fossils that lived during specific time intervals, using the principle of faunal succession. Index fossils are common, easily recognized species that existed for a limited time and wide geographic area, allowing layers in different places to be correlated. And so it is with certain meteorites and their fossil inclusions!
 
+David Weinland went on to express his conviction by establishing in a treatise 16 genera each with multiple species, submitting his work to the Leopoldina and Acta, and proclaiming that: "Not ten years will pass before we will have a small universally recognized fauna of the meteorites." (_Das Ausland_, 1881, No. 26, Article 1.)
+
 # Summary of Literature related to Discoveries of Fossilized Life in Meteorites.
 
 ### 1794 - [On the Origin of the Iron Masses Discovered by Pallas and others like them, and on some Related Natural Phenomena](https://github.com/solaranamnesis/Ernst-Florens-Friedrich-Chladni/blob/main/pallas-eisenmassen/full-text-german.md) by Ernst Florens Friedrich Chladni
