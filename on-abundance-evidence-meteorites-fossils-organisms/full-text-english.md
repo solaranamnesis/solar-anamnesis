@@ -14,11 +14,29 @@ After the carbonaceous meteorites started to become more familiar to me in the m
 
 Imagine an extraterrestrial humanoid on another world, intelligent enough to slice thin sections of rocks and analyze them in a microscope. Now what if a large boulder of fossiliferous material ejected from the Earth, blasted from this terrestrial deposit eons ago, has landed on this world. These extraterrestrials would slice this rock and notice the tiny nummulites in the stone, for now let us assume it was such a nummulitic rock common on Earth. Now the question is: how would they react to such a rock that had landed upon their world, analyzed by its scientists, containing small animals from a remote world unknown to them? Would they classify them as organic species, perhaps similar to long-dead species in rocks they themselves had found on their world of past life? With the even more remarkable situation being that the extraterrestrials on this hypothetical world having fossils of nummulites in their _own planet's crustal layers_! Or would they say: these are special types of crystallization inclusions, natural spectacles formed by the encrusting material and superficially resembling life? How could anyone be sure, assuming no other knowledge of life, what is the correct answer?
 
+[Figure of Fossil Nummulites from Saint-André de Cubzac, Aquitaine, France. Parent Géry, CC BY-SA 3.0, via Wikimedia Commons.]()
+
 One way to attempt an answer is to melt (or chemically dissociate in some way) the material and try to reproduce the observed morphological features with the same source material. And if successful, the answer would seem clear: natural processes produced the forms, perhaps via a volcano, or perhaps some sedimentary process involving erosion, etc., not a living, organic life-form. For example, attempting a kind of recrystallization in the lab to demonstrate the creation of these morphologies. Recrystallization as distinct from melting and solidifying, which tends to introduce igneous differentiation. Hence why "chondritic" meteorites are referred to as "undifferentiated matter." There is no such thing as undifferentiated matter. There is 1st generation super nova stellar material, 2nd generation, 3rd, etc. In the 1st generation there was not enough heavy elements for what is observed in the meteorites. And the 2nd generation might have had planets with moons. And so on for the 3rd, etc. The remains of these planets and moons and the elements and compounds created in super novas are not "undifferentiated matter." Their remains are the remains of rocks formed on worlds.
 
 For example in the terrestrial case, humans know that no one could simply take all the elements of a nummulite fossil, dissociate them and come up with the original fossil, no matter how complicated the chemical processes invented. Only a biological organism of the species _Nummulites nummulites_, which was then permineralized, could produce such a feature. Perhaps the artificial creation might resemble it quite well, but on close and thorough examination the complexity of the organic form reveals itself; and considering the numerous other inclusions, all with a similar pattern, how could such a complex process be equally repeated and followed by natural processes (especially in a proto-planetary disk)? If they have been formed through processes occurring in the extraordinary low pressures of a such proto-planetay disks, then take the same meteoritic source material, combine it in the same pressures and conditions and give me the thin sections to photograph. Searching the literature for such thin sections, I have not found any examples (even an article that claimed to do so but provided no photographic evidence!) and would like to seem some, in fact! And is that not what the higher petrographic-type meteorites show, a nearly complete erasure the complex structures of the lower petrographic-types, not to mention the obvious difference between the fusion crust of a meteorite and its interior, a difference so clear one need not even try to replicate the above experiments, since it they have already been performed by nature itself on the meteorite's arrival! Just look at the complex structures in the Saratov Meteorite, or the Knyahinya Meteorite and try to explain to me how you think they can be arrived at through any sort of non-living recombination of the source material (and its not about verbal explanations, its about the morphological photographic evidence)!
 
 The next task one might do is to compare the freshly fallen stones with all known types to determine if any relationship might exist. On Earth this would mean comparing them with all the various types of igneous, sedimentary, and metamorphic rocks; doubtless similar such divisions of rocks would occur on other worlds too. Thus rocks containing nummulites would be compared and scientists would arrive at conclusions as to their most similar analogs. Sedimentary rocks such as shale, limestone, and sandstone can undergo metamorphism when subjected to heat and pressure; with heat and pressure these rocks can transform into metamorphic rocks such as slate, marble, and quartzite, respectively. Such considerations will be important. Microfossils will almost certainly not survive such processes, except in rare occasions. Also, since a counter argument might be: well the organic beings in the meteorites have lack certain organic elements and compounds. But most discoveries on Earth of fossils involve some level of permineralization and replacement, with most or even all traces of their organic past chemically lost, when compared with their living forms. Such examples include trilobites like in Beecher's Trilobite Bed or the Hunsrück Slate. In any case if the comparison is done fairly without bias, it will be noticed that the meteorite containing nummulites resembles many other fossiliferous rocks, and all other types of rocks have only a superficial resemblance that is clearly distinguished under the microscope.
+
+[Figure of "Sternberger Kuchen (Sternberg Cake)." Stadtmuseum Berlin, CC BY 3.0, via Wikimedia Commons.]()
+
+[Figure of Sphaerocodium kokeni from the Triassic of Germany. Hectonichus, CC BY-SA 3.0, via Wikimedia Commons.]()
+
+[Figure of Pyritized brachiopods (Silica Formation, Middle Devonian; quarry in Sylvania area, Lucas County, northwestern Ohio, USA)." James St. John, CC BY 2.0, via Wikimedia Commons or Flickr: https://flic.kr/p/pDGC55]()
+
+[Figure of An Example of Coquina. James St. John, CC BY 2.0, via Wikimedia Commons or Flickr: https://flic.kr/p/2kWYrZx]()
+
+[Figure of Silicified fossil rugose coral with beekite rings. James St. John, CC BY 2.0, via Wikimedia Commons or Flickr: https://flic.kr/p/pazWfG]()
+
+[Figure of "Pyrite-marcasite concretions in carbonaceous shale." James St. John, CC BY 2.0, via Wikimedia Commons or Flickr: https://flic.kr/p/ujvrjR]()
+
+[Figure of Mickey Mouse: Fusulinida (rounded and dark) and brachiopods (elongate) fossils in a limestone." Strekeisen, CC BY-SA 4.0, via Wikimedia Commons.]()
+
+[Figure of "Fusulinid limestone (Iola Formation, Upper Pennsylvanian; Elk County, southeastern Kansas, USA)." James St. John, CC BY 2.0 via Flickr: https://flic.kr/p/pnDtCC]()
 
 Another investigation might be to study thin sections of the rock in cross-polarized light, since mineralization under random, physical processes produce certain types of cross polarizations, while that of permineralized organic lifeforms produces a different kind of polarization. This investigation alone could prove that the inclusions observed in the meteorite have cross-polarized patterns impossible to form without life. Due to the contrast between fossils and the surrounding rock matrix, this would reveal spherical inclusions that are not impact-spherules, which have a specific cross polarized appearance. These can be easily observed in thin sections of most lunar meteorites, like Northwest Africa 5000 and Northwest Africa 10203. Lifeforms are known to produce proteins of one chirality or another, and if this holds on other worlds, then permineralized protein solutions of right or left handed mixtures should be noticeable in cross polarized light, and for lifeforms with cellular like compartments in their interior, it will have cross polarization that reveals the inner structures of the fossil lifeforms. This becomes clear by studying both the cross polarized and plane light images of meteorite thin sections, which I have included in this work.
 
@@ -164,6 +182,8 @@ Annotated Album: https://flic.kr/s/aHBqjAFsqx
 
 # Altered Meteorites and their Fossils.
 
+Compare with Reef Sediment: Carbonaceous rock with shell fragments. Hannes Grobe/AWI, CC BY 4.0, via Wikimedia Commons.
+
 ## Knyahinya.
 
 ## Julesberg.
@@ -177,6 +197,8 @@ Annotated Album: https://flic.kr/s/aHBqjAFsqx
 ## Northwest Africa 7302.
 
 Compare with Figure 7 from "A Guide to the Fossil Invertebrate Animals in the Department of Geology and Palaeontology in the British Museum of Natural History" entitled "Radiolarian rock from the Lower Culm at Carzantic Quarry, near Launceston, Cornwall."
+
+Compare with Nummulitic Chalk Thin Section, from Fly by Weesen, Germany/Switzerland (1923). Leo Wehrli, CC BY-SA 4.0, via Wikimedia Commons.
 
 ## Northwest Africa 7171.
 
