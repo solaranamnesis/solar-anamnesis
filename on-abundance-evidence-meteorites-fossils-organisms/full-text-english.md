@@ -24,7 +24,7 @@ For example in the terrestrial case, humans know that no one could simply take a
 
 The next task one might do is to compare the freshly fallen stones with all known types to determine if any relationship might exist. On Earth this would mean comparing them with all the various types of igneous, sedimentary, and metamorphic rocks; doubtless similar such divisions of rocks would occur on other worlds too. Thus rocks containing nummulites would be compared and scientists would arrive at conclusions as to their most similar analogs. Sedimentary rocks such as shale, limestone, and sandstone can undergo metamorphism when subjected to heat and pressure; with heat and pressure these rocks can transform into metamorphic rocks such as slate, marble, and quartzite, respectively. Such considerations will be important. Microfossils will almost certainly not survive such processes, except in rare occasions. Also, since a counter argument might be: well the organic beings in the meteorites have lack certain organic elements and compounds. But most discoveries on Earth of fossils involve some level of permineralization and replacement, with most or even all traces of their organic past chemically lost, when compared with their living forms. Such examples include trilobites like in Beecher's Trilobite Bed or the Hunsrück Slate. In any case if the comparison is done fairly without bias, it will be noticed that the meteorite containing nummulites resembles many other fossiliferous rocks, and all other types of rocks have only a superficial resemblance that is clearly distinguished under the microscope.
 
-[Figure of "Sternberger Kuchen (Sternberg Cake)." Stadtmuseum Berlin, CC BY 3.0, via Wikimedia Commons.](https://commons.wikimedia.org/wiki/File:StadtmuseumBerlin_GeologischeSammlung_SM-2012-4234.jpg)
+[Figure of Sternberger Kuchen (Sternberg Cake). Stadtmuseum Berlin, CC BY 3.0, via Wikimedia Commons.](https://commons.wikimedia.org/wiki/File:StadtmuseumBerlin_GeologischeSammlung_SM-2012-4234.jpg)
 
 [Figure of Sphaerocodium kokeni from the Triassic of Germany. Hectonichus, CC BY-SA 3.0, via Wikimedia Commons.](https://commons.wikimedia.org/wiki/File:Cyanobacteria_-_Sphaerocodium_kokeni.JPG)
 
@@ -36,13 +36,13 @@ The next task one might do is to compare the freshly fallen stones with all know
 
 [Figure of Silicified fossil rugose coral with beekite rings. James St. John, CC BY 2.0, via Wikimedia Commons.](https://commons.wikimedia.org/wiki/File:Silicified_fossil_rugose_coral_with_beekite_rings_8_(15204675332).jpg)
 
-[Figure of "Pyrite-marcasite concretions in carbonaceous shale." James St. John, CC BY 2.0, via Wikimedia Commons or Flickr: https://flic.kr/p/ujvrjR]()
+[Figure of Pyrite-marcasite concretions in carbonaceous shale. James St. John, CC BY 2.0, via Wikimedia Commons.](https://commons.wikimedia.org/wiki/File:Pyrite-marcasite_concretions_in_carbonaceous_shale_(Pennsylvanian;_coal_mine_in_Randolph_County,_Illinois,_USA)_2_(18587429873).jpg)
 
-[Figure of Mickey Mouse: Fusulinida (rounded and dark) and brachiopods (elongate) fossils in a limestone." Strekeisen, CC BY-SA 4.0, via Wikimedia Commons.]()
+[Figure of Mickey Mouse: Fusulinida (rounded and dark) and brachiopods (elongate) fossils in a limestone. Strekeisen, CC BY-SA 4.0, via Wikimedia Commons.](https://commons.wikimedia.org/wiki/File:Mickey_mouse.JPG)
 
-[Figure of "Fusulinid limestone (Iola Formation, Upper Pennsylvanian; Elk County, southeastern Kansas, USA)." James St. John, CC BY 2.0 via Flickr: https://flic.kr/p/pnDtCC]()
+[Figure of Fusulinid limestone (Iola Formation, Upper Pennsylvanian; Elk County, southeastern Kansas, USA). James St. John, CC BY 2.0 via Flickr.](https://flic.kr/p/pnDtCC)
 
-[Compare with Reef Sediment: Carbonaceous rock with shell fragments. Hannes Grobe/AWI, CC BY 4.0, via Wikimedia Commons.]()
+[Compare with Reef Sediment: Carbonaceous rock with shell fragments. Hannes Grobe/AWI, CC BY 4.0, via Wikimedia Commons.](https://commons.wikimedia.org/wiki/File:Reef-sediment_hg.jpg)
 
 In the previously mentioned example of Nummulites, they are so morphologically distinct as the reamins of lifeforms, that even an inexperienced grade school student would immediately propose that these forms were definitively alive at some point, like the other lifeforms they have encountered in their formative years. No different than if these grade school students when to a local zoo and saw animals from a region of the world completely foreign to them, they would recognize them as other living beings, similar to all other living beings previously encountered. The difficulty then arises when we have other lifeforms which do not have such a characteristic form as Nummulites. For example consider the bewildering number of spherical morphologies exhibited by fossil Foraminifera, e. g. as illustrated in detail by ... in the paper entitled ...; also consider a meteorite composed of the _débris of an extraterrestrial reef_, possibility similar to what can be seen in fossil reefs on Earth, e. g. the image of Reef Sediment: Carbonaceous rock with shell fragments by Hannes Grobe/AWI.
 
@@ -190,9 +190,9 @@ Annotated Album: https://flic.kr/s/aHBqjAFsqx
 
 # Altered Meteorites and their Fossils.
 
-Compare with Reef Sediment: Carbonaceous rock with shell fragments. Hannes Grobe/AWI, CC BY 4.0, via Wikimedia Commons.
+Compare with [Reef Sediment: Carbonaceous rock with shell fragments. Hannes Grobe/AWI, CC BY 4.0, via Wikimedia Commons.](https://commons.wikimedia.org/wiki/File:Reef-sediment_hg.jpg)
 
-Compare with Nummulitic Chalk Thin Section, from Fly by Weesen, Germany/Switzerland (1923). Leo Wehrli, CC BY-SA 4.0, via Wikimedia Commons.
+Compare with these Nummulitic Chalk Thin Sections, [1](https://commons.wikimedia.org/wiki/File:ETH-BIB-Nummuliten-Breccie,_Fly_bei_Weesen,_Schliff_L._W._3-Dia_247-02324.tif) and [2](https://commons.wikimedia.org/wiki/File:ETH-BIB-Nummulitenkalk,_Fly_bei_Weesen,_Schliff_3_Nic._III-Dia_247-02325.tif), from Fly by Weesen, Germany/Switzerland (1923). Leo Wehrli, CC BY-SA 4.0, via Wikimedia Commons.
 
 ## Knyahinya.
 
@@ -206,7 +206,7 @@ Compare with Nummulitic Chalk Thin Section, from Fly by Weesen, Germany/Switzerl
 
 ## Northwest Africa 7302.
 
-Compare with Figure 7 from "A Guide to the Fossil Invertebrate Animals in the Department of Geology and Palaeontology in the British Museum of Natural History" entitled "Radiolarian rock from the Lower Culm at Carzantic Quarry, near Launceston, Cornwall."
+Compare with [Figure 7](https://archive.org/details/guidetofossilinv00brit/page/28/mode/1up) from "A Guide to the Fossil Invertebrate Animals in the Department of Geology and Palaeontology in the British Museum of Natural History" entitled "Radiolarian rock from the Lower Culm at Carzantic Quarry, near Launceston, Cornwall."
 
 ## Northwest Africa 7171.
 
