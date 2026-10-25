@@ -16,7 +16,7 @@ So do not skim them. Choose any form in any photograph and slow down. Trace its 
 
 That is the discipline this book asks of you, and it is the same discipline a paleontologist brings to a chip of limestone: not to glance and judge, but to account for every feature --- and to notice which explanations run out of explanatory power before the details do.
 
-Most photographs come in pairs --- the same patch of stone shown in ordinary light and through cross-polarized filters, a standard trick of geologists in which two polarizing filters are crossed like Venetian blinds, making crystals light up in startling colors depending on how their atoms are stacked. Those pairs are a tool you will use later. But start with morphology. Start with the forms themselves.
+Most photographs come in pairs --- the same patch of stone shown in ordinary light and through cross-polarized filters, a standard trick of petrologists and geologists in which two polarizing filters are crossed like Venetian blinds, making crystals light up in startling colors depending on how their atoms are stacked. Cross-polarized light hides many morphological features visible in plan light, while revealing additional information about the crystalized minerals. These pairs are a tool you will use later. But start with morphology. Start with the forms themselves.
 
 ## How I came to look.
 
