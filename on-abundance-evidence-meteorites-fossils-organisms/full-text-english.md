@@ -236,6 +236,10 @@ Compare with [Figure 7](https://archive.org/details/guidetofossilinv00brit/page/
 
 [Link to the Flickr Album for the Dar al Gani Meteorite Thin-Section Images.](https://flic.kr/s/aHsmECrGNj)
 
+## Allende.
+
+[Link to the Flickr Album for the Allende Meteorite.](https://flic.kr/s/aHsmENsqo9)
+
 ## Northwest Africa 10669.
 
 ## Northwest Africa 5930.
@@ -246,13 +250,9 @@ Compare with [Figure 7](https://archive.org/details/guidetofossilinv00brit/page/
 
 ## Northwest Africa 4723.
 
-### Allende.
+## Northwest Africa 2224.
 
-[Link to the Flickr Album for the Allende Meteorite.](https://flic.kr/s/aHsmENsqo9)
-
-### Northwest Africa 2224.
-
-### Northwest Africa 3118.
+## Northwest Africa 3118.
 
 ...
 
