@@ -212,6 +212,8 @@ Annotated Album: https://flic.kr/s/aHBqjAFsqx
 
 ## Northwest Africa 7302.
 
+[Link to Image of Northwest Africa 7302 on Flickr.](https://flic.kr/p/2hWGYQd)
+
 Compare with [Figure 7](https://archive.org/details/guidetofossilinv00brit/page/28/mode/1up) from "A Guide to the Fossil Invertebrate Animals in the Department of Geology and Palaeontology in the British Museum of Natural History" entitled "Radiolarian rock from the Lower Culm at Carzantic Quarry, near Launceston, Cornwall."
 
 ## Northwest Africa 7171.
