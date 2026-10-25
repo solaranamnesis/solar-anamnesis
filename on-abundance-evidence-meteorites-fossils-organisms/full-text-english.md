@@ -95,7 +95,7 @@ The chapters ahead proceed in four parts:
 - The Counterarguments --- contamination, mineral mimicry, and the mainstream interpretations, named clearly and weighed against the photographs.
 - The Implications --- if these stones are the wreckage of living worlds, delivered here across deep time, what does that change?
 
-In 1881, Weinland predicted that within ten years the meteoritic fauna would be universally recognized. He was wrong about the decade --- but perhaps not about the destination. This book is offered in his spirit. Only now, we have the pictures.
+In 1881, Weinland predicted that within ten years the meteoritic fauna would be universally recognized. He was wrong about the decade --- but perhaps not about the destination. This book is offered in his spirit. Only now, we have digital imaging, higher resolution, and focus-stacking photography.
 
 # Summary of Literature related to Discoveries of Fossilized Life in Meteorites.
 
