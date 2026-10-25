@@ -194,11 +194,19 @@ Annotated Album: https://flic.kr/s/aHBqjAFsqx
 
 ## Knyahinya.
 
+[Link to the Flickr Album for the Knyahinya Meteorite.](https://flic.kr/s/aHBqjzz9zB)
+
 ## Julesberg.
+
+[Link to the Flickr Album for the Julesburg Meteorite.](https://flic.kr/s/aHsmGQDviP)
 
 ## Saratov.
 
+[Link to the Flickr Album for the Saratov Meteorite.](https://flic.kr/s/aHskQsA5Jn)
+
 ## Korra Korrabes.
+
+[Link to the Flickr Album for the Korra Korrabes Meteorite.](https://flic.kr/s/aHskQeeB9a)
 
 ## Moorabie.
 
@@ -216,6 +224,8 @@ Compare with [Figure 7](https://archive.org/details/guidetofossilinv00brit/page/
 
 ## Northwest Africa 2892.
 
+[Link to the Flickr Album for the Northwest Africa 2892 Meteorite.](https://flic.kr/s/aHsmJxR2W1)
+
 ## Northwest Africa 4910.
 
 ## Northwest Africa 5930.
@@ -225,6 +235,8 @@ Compare with [Figure 7](https://archive.org/details/guidetofossilinv00brit/page/
 ## Northwest Africa 10669.
 
 ### Allende.
+
+[Link to the Flickr Album for the Allende Meteorite.](https://flic.kr/s/aHsmENsqo9)
 
 ### Northwest Africa 2224.
 
