@@ -271,6 +271,10 @@ Compare with [Figure 7](https://archive.org/details/guidetofossilinv00brit/page/
 
 [Link to the Flickr Album for the Northwest Africa 7859 Meteorite Thin-Section Images.](https://flic.kr/s/aHsmMsArha)
 
+## Northwest Africa 11344.
+
+[Link to the Flickr Album for the Northwest Africa 11344 Meteorite Thin-Section Images.](https://flic.kr/s/aHsmGPJvgG)
+
 ## Dar al Gani 1040.
 
 [Link to the Flickr Album for the Dar al Gani Meteorite Thin-Section Images.](https://flic.kr/s/aHsmECrGNj)
