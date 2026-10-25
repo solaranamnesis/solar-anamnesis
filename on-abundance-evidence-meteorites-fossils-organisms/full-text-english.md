@@ -267,6 +267,10 @@ Annotated Album: https://flic.kr/s/aHBqjAFsqx
 
 ## Moorabie.
 
+[Moorabie Gigapixel Thin-Section in Visible Light.](https://flic.kr/p/2jiVavZ)
+
+TODO: create album.
+
 ## Northwest Africa 7302.
 
 [Link to Image of Northwest Africa 7302 Thin-Section on Flickr.](https://flic.kr/p/2hWGYQd)
@@ -303,17 +307,33 @@ Compare with [Figure 7](https://archive.org/details/guidetofossilinv00brit/page/
 
 ## Northwest Africa 10669.
 
+[Northwest Africa 10669 Thin-Section in Cross-Polarized Light.](https://flic.kr/p/2c8KkxD)
+
+TODO: create album.
+
 ## Northwest Africa 5930.
+
+[Link to the Flickr Album for the Northwest Africa 5930 Meteorite Thin-Section Images.](https://flic.kr/s/aHsmJQ8u7A)
 
 ## Northwest Africa 7171.
 
+TODO: create album.
+
 ## Northwest Africa 8773.
+
+[Link to the Flickr Album for the Northwest Africa 8773 Meteorite Thin-Section Images.](https://flic.kr/s/aHsmGQWieE)
 
 ## Northwest Africa 4723.
 
+[Link to the Flickr Album for the Northwest Africa 4723 Meteorite Thin-Section Images.](https://flic.kr/s/aHsmGQZ2Qt)
+
 ## Northwest Africa 2224.
 
+[Link to the Flickr Album for the Northwest Africa 2224 Meteorite Thin-Section Images.](https://flic.kr/s/aHsmwReNDn)
+
 ## Northwest Africa 3118.
+
+TODO: create album.
 
 ...
 
@@ -327,14 +347,22 @@ Compare with [Figure 7](https://archive.org/details/guidetofossilinv00brit/page/
 
 ### Kainsaz.
 
+[Link to the Flickr Album for the Kainsaz Meteorite Thin-Section Images.](https://flic.kr/s/aHsmoJo3Gw)
+
 ### Moss.
 
+[Link to the Flickr Album for the Moss Meteorite Thin-Section Images.](https://flic.kr/s/aHsmvzoMX8)
+
 ### Murchison.
+
+TODO: create album.
 
 ...
 
 # Appendix.
 
-## Additional Evidence from Meteorite Thin-Sections scanned with PathScan Enabler.
+## Additional Evidence from scanned Meteorite Thin-Sections.
+
+[Link to Entire Thin-Section Collection scanned with Pathscan Enabler 5.](https://flic.kr/s/aHsmHp1vQd)
 
 ...
