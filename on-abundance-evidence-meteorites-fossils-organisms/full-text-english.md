@@ -8,7 +8,7 @@
 
 # Introduction.
 
-## First, Look at the Pictures.
+## First, look at the Pictures.
 
 This book is about stones that fell from the sky and about what is inside them. Before anything else, I want you to look at the photographs. They appear throughout every chapter, and they are the heart of this book --- large, detailed, and reproduced at a scale where you can examine them yourself, the way a detective examines a scene. The words that follow are, in a sense, only captions.
 
@@ -18,7 +18,7 @@ That is the discipline this book asks of you, and it is the same discipline a pa
 
 Most photographs come in pairs --- the same patch of stone shown in ordinary light and through cross-polarized filters, a standard trick of geologists in which two polarizing filters are crossed like Venetian blinds, making crystals light up in startling colors depending on how their atoms are stacked. Those pairs are a tool you will use later. But start with morphology. Start with the forms themselves.
 
-## How I Came to Look.
+## How I came to look.
 
 A few years ago, I spent thousands of hours photographing 136 meteorite thin sections --- slices of stone ground down until light passes through them, thin enough that a microscope can reveal everything inside. I stitched the photographs into gigapixel mosaics, building explorable landscapes out of each stone, purely as an art project. No hypothesis. No expectations. I wanted beautiful images of stones that had fallen from space.
 
@@ -30,7 +30,7 @@ The doubt lasted until I did two things at once. I examined more and more carbon
 
 Contamination, as an explanation, quietly died at that point. What replaces it is the subject of this book.
 
-## The Line That Was Already Long
+## The Line that was already long.
 
 What does one do with a private observation like that? I drafted an email to a NASA scientist who studies meteorites, describing what I had seen. I never received a reply. So I did the only other thing available: I went to the literature, intending to write the discovery up myself.
 
@@ -62,9 +62,10 @@ Test two: compare with known rocks. Geologists classify Earth's rocks by compari
 Test three: read the light. Crystals that grow randomly produce one signature in cross-polarized light. Structures that were once living --- which then mineralized, cell by cell wall, the way Earth's fossils did --- produce another. Living things also build their molecules with a one-directional "handedness," like left-handed threads on a screw, and if that holds on other worlds, it should leave a trace even in stone. This is the same test that killed my contamination doubts, and it is why every photographic pair in this book matters.
 
 Test four: ask the stone itself. Nature has already run the heating experiment. When a meteorite streaks through the atmosphere, its surface melts and chars --- the black fusion crust --- while its interior stays cool and untouched. Look at any meteorite, and you can see, side by side, what a few seconds of intense heat does to structure and what four and a half billion years of preservation looks like when nothing disturbs it. The interiors I will show you --- of stones like Saratov and Knyahinya --- are of an organizational complexity that no one, to my knowledge, has ever produced in a laboratory from raw materials. Not with words, but with photographs: that is the standard this book holds itself to.
-What Fossils Are Made Of
 
-One objection should be dealt with now, because it will occur to every careful reader: the forms in meteorites contain none of the organic chemistry of living things. But almost nothing on Earth does either. A trilobite in a museum, a brachiopod glittering with pyrite, a coral replaced grain by grain with silica --- nearly every fossil we have ever found was permineralized: its original tissues replaced by minerals, molecule by molecule, until only the shape remained. Paleontology is the discipline of reading that shapes. If we accept mineral-replaced fossils on Earth --- and we do, universally --- then mineral composition alone cannot disqualify a candidate from beyond it.
+## What Fossils are made of.
+
+One objection should be dealt with now, because it will occur to every careful reader: the forms in meteorites contain none of the organic chemistry of living things. But almost nothing on Earth does either. A trilobite in a museum, a brachiopod glittering with pyrite, a coral replaced grain by grain with silica --- nearly every fossil we have ever found was permineralized: its original tissues replaced by minerals, molecule by molecule, until only the shape remained. Paleontology is the discipline of reading these shapes. If we accept mineral-replaced fossils on Earth --- and we do, universally --- then mineral composition alone cannot disqualify a candidate from beyond it.
 
 Conversely, no one could take the chemical elements of a nummulite, shake them together, and assemble the fossil. An imitation might fool a glance, but not a patient examination --- and in these stones, the complex forms repeat, inclusion after inclusion, in consistent patterns, across many different stones. The question at the heart of this book is whether anything except life can do that.
 What Follows
