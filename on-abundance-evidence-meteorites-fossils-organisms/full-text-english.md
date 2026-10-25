@@ -90,7 +90,7 @@ On Earth, geologists identify layers of rock by their index fossils --- common, 
 
 The chapters ahead proceed in four parts:
 
-- The History --- the forgotten two-century lineage, from Berzelius and Hahn to the present --- told largely through their own words and images.
+- The History --- the forgotten two-century lineage, from Chladni, Biot, Berzelius, and Hahn to the present --- told through their own words and images.
 - The Evidence --- my gigapixel photomicrographs of 136 thin sections, paired plane-light and cross-polarized views, placed beside their terrestrial fossil counterparts.
 - The Counterarguments --- contamination, mineral mimicry, and the mainstream interpretations, named clearly and weighed against the photographs.
 - The Implications --- if these stones are the wreckage of living worlds, delivered here across deep time, what does that change?
