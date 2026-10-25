@@ -39,7 +39,8 @@ What I found astonished me. I was not remotely first --- and neither were the re
 They were wrong about the decade. The recognition never came. Instead, the entire line of inquiry faded from the textbooks --- which is why I, educated decades later by physicists and astronomers, had never heard a word of it. The nearest thing to a mainstream acknowledgment was the sensation of 1996, when NASA scientists described possible traces of ancient life in a Martian meteorite, ALH84001 --- a story told everywhere, then explained away, and filed away. It was treated as an isolated oddity concerning one rock from Mars. Almost no one mentioned the two centuries of similar claims sitting in plain sight in the older literature or the persistent researchers --- Nagy, Claus, Pflug, Hoyle, Wickramasinghe, Wainwright, Hoover --- who kept the question alive at the margins.
 
 I had gone to the library expecting to be first. Instead I went to the back of the line --- and the line was already very long. This book is my attempt to explain why that line exists, what its members saw, and why I believe they were looking at something real.
-How Would You Decide?
+
+## How Would You Decide?
 
 To understand what is at stake, imagine an alien scientist on another world --- a being perfectly capable of slicing rocks into thin sections and studying them under a microscope. One day, a boulder lands there, blasted from a distant planet eons ago. They section it and find small, coiled, chambered forms of extraordinary regularity.
 
@@ -63,12 +64,29 @@ Test three: read the light. Crystals that grow randomly produce one signature in
 
 Test four: ask the stone itself. Nature has already run the heating experiment. When a meteorite streaks through the atmosphere, its surface melts and chars --- the black fusion crust --- while its interior stays cool and untouched. Look at any meteorite, and you can see, side by side, what a few seconds of intense heat does to structure and what four and a half billion years of preservation looks like when nothing disturbs it. The interiors I will show you --- of stones like Saratov and Knyahinya --- are of an organizational complexity that no one, to my knowledge, has ever produced in a laboratory from raw materials. Not with words, but with photographs: that is the standard this book holds itself to.
 
+## Life Builds with Stone.
+
+Before we can ask what a fossil in a meteorite would look like, we have to remember what living things on Earth are actually made of --- because the answer is: stone.
+
+Shells, bones, teeth, coral, diatom frustules --- these are biological composite materials, minerals assembled by cells into architectures no chemistry class would predict. A clam does not merely grow a shell; it writes a diary in it. Season by season, the shell records the temperature and chemistry of the water it grew in, and the oxygen isotopes locked into each growth band preserve the environment the animal experienced during its lifetime. Read the isotopic ratios along a shell's cross-section and you can reconstruct the climate of a sea that vanished millions of years ago. The organism, in other words, absorbs whatever the environment offers --- calcium, silica, iron, sulfur --- and incorporates it into its own structure, on its own terms.
+
+And life does not stop at borrowing minerals from calm water. At the black smokers of hydrothermal vents, biology and geology stop being separate categories at all. There, volcanic and igneous processes welling up from the planet's interior merge with colonies of organisms into what is effectively one giant living organic mass --- tube worms and microbes built on chemistry cooked straight out of the rock. Where the magma comes up, the food chain follows. If you found such a structure mineralized, where would the volcano end and the organism begin? The honest answer is that you might not be able to say.
+
+Earth's most striking example may be the glass sponges. Hexactinellid sponges build their entire skeletons out of silica --- four- and six-pointed spicules of essentially the same material as the mineral grains in any chert or sandstone. Some researchers consider them distinct enough from other sponges to warrant their own phylum, Symplasma. They live mostly at depths of 450 to 900 meters in the world's oceans, are especially common in Antarctic and North Pacific waters, and some marine biologists believe they are the longest-lived animals on Earth --- tentatively estimated, in the case of certain deep specimens, at up to fifteen thousand years. An animal, made of glass, that may have been alive since before human civilization began.
+
+Nor are sponges the passive lumps of textbook caricature. Consider the tiny marine sponge Tethya, which can slowly creep across the reef bottom, feeling out its environment with extensions of its own body --- moving, tasting, deciding. And consider what a sponge is before it settles: a microscopic free-swimming larva, a self-contained package of cells that must find a place to land and build. Those larvae, when I first saw them illustrated, stopped me cold. They look exactly like many of the microfossils I have photographed in meteorite thin sections --- the same sizes, the same overall architecture, the same asymmetries. The comparisons appear throughout this book, side by side, and I will let you judge them as I did.
+
 ## What Fossils are made of.
 
 One objection should be dealt with now, because it will occur to every careful reader: the forms in meteorites contain none of the organic chemistry of living things. But almost nothing on Earth does either. A trilobite in a museum, a brachiopod glittering with pyrite, a coral replaced grain by grain with silica --- nearly every fossil we have ever found was permineralized: its original tissues replaced by minerals, molecule by molecule, until only the shape remained. Paleontology is the discipline of reading these shapes. If we accept mineral-replaced fossils on Earth --- and we do, universally --- then mineral composition alone cannot disqualify a candidate from beyond it.
 
+Permineralization, however, may not be the only road to deep time. There is one environment where direct preservation of actual biological material --- not a replacement, but the original substance --- is not merely possible but routine: the vacuum of space. Consider a catastrophe violent enough to blast rock off the surface of a world, with living organisms still inside it. In space, that rock encounters something Earth never offers: the simultaneous absence of pressure, of water, of oxygen, and of warmth. A living thing exposed to those conditions is not decayed --- decay requires chemistry, and chemistry requires a medium --- it is freeze-dried. Instantly desiccated, frozen, sealed in stone. The same vacuum that we assume must destroy life may, under the right circumstances, be nature's hermetic jar.
+
+The Implications chapter returns to this in earnest, but one thought experiment can stand here as a preview. Take a tardigrade. Inside its gut lives a miniature ecosystem of its own --- bacteria, a whole biological community riding in a living vehicle. Now let the tardigrade do what tardigrades do when the world turns hostile: expel its water, contract into the tun, and shut down --- a state in which it is famously protected against extremes of radiation, cold, and vacuum that would kill nearly anything else. Now imagine that tun sealed inside a sizable rock, ejected into the deep cold, cocooned within a large dark cloud that shields it from cosmic rays. No decay. No scavengers. No rain, no oxygen, no tectonics. Only the patient arithmetic of deep time. If a claim like that sounds absurd, remember what is being claimed and by whom: it is essentially the panspermia hypothesis, discussed seriously by scientists for over a century --- and the chapters ahead will show you photographs.
+
 Conversely, no one could take the chemical elements of a nummulite, shake them together, and assemble the fossil. An imitation might fool a glance, but not a patient examination --- and in these stones, the complex forms repeat, inclusion after inclusion, in consistent patterns, across many different stones. The question at the heart of this book is whether anything except life can do that.
-What Follows
+
+## What Follows.
 
 On Earth, geologists identify layers of rock by their index fossils --- common, easily recognized species that lived for a limited time across a wide area, letting layers in different places be matched and dated. If some meteorites contain organisms, then the same principle reaches beyond Earth --- and the classification of meteorites, built while assuming they are sterile, will have to grow to accommodate it. Not as a scandal, but as a widening.
 
@@ -91,9 +109,9 @@ On Earth, geologists identify layers of rock by their index fossils --- common, 
 The chapters ahead proceed in four parts:
 
 - The History --- the forgotten two-century lineage, from Chladni, Biot, Berzelius, and Hahn to the present --- told through their own words and images.
-- The Evidence --- my gigapixel photomicrographs of 136 thin sections, paired plane-light and cross-polarized views, placed beside their terrestrial fossil counterparts.
+- The Evidence --- my gigapixel photomicrographs of 136 thin sections, paired plane-light and cross-polarized views, placed beside their terrestrial fossil counterparts, including modern sponges, their larvae, and other living builders of mineral architecture.
 - The Counterarguments --- contamination, mineral mimicry, and the mainstream interpretations, named clearly and weighed against the photographs.
-- The Implications --- if these stones are the wreckage of living worlds, delivered here across deep time, what does that change?
+- The Implications --- if these stones are the wreckage of living worlds, delivered here across deep time --- some permineralized, some perhaps preserved directly in the vacuum --- what does that change?
 
 In 1881, Weinland predicted that within ten years the meteoritic fauna would be universally recognized. He was wrong about the decade --- but perhaps not about the destination. This book is offered in his spirit. Only now, we have digital imaging, higher resolution, and focus-stacking photography.
 
