@@ -216,13 +216,9 @@ Annotated Album: https://flic.kr/s/aHBqjAFsqx
 
 Compare with [Figure 7](https://archive.org/details/guidetofossilinv00brit/page/28/mode/1up) from "A Guide to the Fossil Invertebrate Animals in the Department of Geology and Palaeontology in the British Museum of Natural History" entitled "Radiolarian rock from the Lower Culm at Carzantic Quarry, near Launceston, Cornwall."
 
-## Northwest Africa 7171.
-
 ## Northwest Africa 12692.
 
-## Northwest Africa 8773.
-
-## Northwest Africa 4723.
+[Link to the Flickr Album for the Northwest Africa 12692 Meteorite Thin-Section Images.](https://flic.kr/s/aHsmW5E3g5)
 
 ## Northwest Africa 2892.
 
@@ -230,13 +226,25 @@ Compare with [Figure 7](https://archive.org/details/guidetofossilinv00brit/page/
 
 ## Northwest Africa 4910.
 
-## Northwest Africa 5930.
+[Link to the Flickr Album for the Northwest Africa 4910 Meteorite Thin-Section Images.](https://flic.kr/s/aHsmvSQVdB)
 
 ## Northwest Africa 7859.
 
 [Link to the Flickr Album for the Northwest Africa 7859 Meteorite Thin-Section Images.](https://flic.kr/s/aHsmMsArha)
 
+## Dar al Gani 1040.
+
+[Link to the Flickr Album for the Dar al Gani Meteorite Thin-Section Images.](https://flic.kr/s/aHsmECrGNj)
+
 ## Northwest Africa 10669.
+
+## Northwest Africa 5930.
+
+## Northwest Africa 7171.
+
+## Northwest Africa 8773.
+
+## Northwest Africa 4723.
 
 ### Allende.
 
