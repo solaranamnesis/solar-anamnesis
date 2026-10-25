@@ -66,7 +66,7 @@ Test four: ask the stone itself. Nature has already run the heating experiment. 
 
 ## Life Builds with Stone.
 
-Before we can ask what a fossil in a meteorite would look like, we have to remember what living things on Earth are actually made of --- because the answer is: stone.
+Before we can ask what a fossil in a meteorite would look like, we have to remember what living things on Earth are actually built of --- because the answer is minerals, and one could say: stone.
 
 Shells, bones, teeth, coral, and diatom frustules --- these are biological composite materials, minerals assembled by cells into architectures no chemistry class would predict. A clam does not merely grow a shell; it writes a diary in it. Season by season, the shell records the temperature and chemistry of the water it grew in, and the oxygen isotopes locked into each growth band preserve the environment the animal experienced during its lifetime. Read the isotopic ratios along a shell's cross-section, and you can reconstruct the climate of a sea that vanished millions of years ago. The organism, in other words, absorbs whatever the environment offers --- calcium, silica, iron, sulfur --- and incorporates it into its own structure, on its own terms.
 
