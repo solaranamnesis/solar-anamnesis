@@ -22,6 +22,8 @@ Most photographs come in pairs --- the same patch of stone shown in ordinary lig
 
 A few years ago, I spent thousands of hours photographing 136 meteorite thin sections --- slices of stone ground down until light passes through them, thin enough that a microscope can reveal everything inside. I stitched the photographs into gigapixel mosaics, building explorable landscapes out of each stone, purely as an art project. No hypothesis. No expectations. I wanted beautiful images of stones that had fallen from space.
 
+[Gigapixel Meteorite Photomicrographs.](https://flic.kr/s/aHskNcCAmj)
+
 Then, in the carbonaceous meteorites --- the dark, carbon-rich kind --- I began to notice things. Small forms inside the inclusions, recurring from stone to stone. Shapes that looked, to my eyes, organic.
 
 My first explanation was the sensible one: contamination. Something got into the stone or the slide during cutting and grinding. That is what anyone would think. So I noted it and moved on to the next stone. But the forms kept appearing, in independent stones prepared independently.
