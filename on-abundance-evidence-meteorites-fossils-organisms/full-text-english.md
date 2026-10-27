@@ -355,7 +355,7 @@ Compare with [Figure 7](https://archive.org/details/guidetofossilinv00brit/page/
 
 ### Murchison.
 
-TODO: create album.
+[Link to the Flickr Album for the Murchison Meteorite Thin-Section Images.](https://flic.kr/s/aHBqjD8CTG)
 
 ...
 
