@@ -271,9 +271,7 @@ Annotated Album: https://flic.kr/s/aHBqjAFsqx
 
 ## Moorabie.
 
-[Moorabie Gigapixel Thin-Section in Visible Light.](https://flic.kr/p/2jiVavZ)
-
-TODO: create album.
+[Link to the Flickr Album for the Moorabie Meteorite Thin-Section Images.](https://flic.kr/s/aHBqjD8AXm)
 
 ## Northwest Africa 7302.
 
@@ -311,9 +309,7 @@ Compare with [Figure 7](https://archive.org/details/guidetofossilinv00brit/page/
 
 ## Northwest Africa 10669.
 
-[Northwest Africa 10669 Thin-Section in Cross-Polarized Light.](https://flic.kr/p/2c8KkxD)
-
-TODO: create album.
+[Link to the Flickr Album for the Northwest Africa 10669 Meteorite Thin-Section Images.](https://flic.kr/s/aHsmvNmFsa)
 
 ## Northwest Africa 5930.
 
@@ -321,7 +317,7 @@ TODO: create album.
 
 ## Northwest Africa 7171.
 
-TODO: create album.
+[Link to the Flickr Album for the Northwest Africa 7171 Meteorite Thin-Section Images.](https://flic.kr/s/aHBqjD8CRN)
 
 ## Northwest Africa 8773.
 
@@ -337,7 +333,7 @@ TODO: create album.
 
 ## Northwest Africa 3118.
 
-TODO: create album.
+[Link to the Flickr Album for the Northwest Africa 3118 Meteorite Thin-Section Images.](https://flic.kr/s/aHBqjD8KQk)
 
 ...
 
