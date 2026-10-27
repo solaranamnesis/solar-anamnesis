@@ -60,7 +60,7 @@ You and I would recognize those forms instantly. They are nummulites --- the coi
 
 That is not an easy question, and pretending otherwise would doom this book. So let me tell you honestly what the tests are --- and what they show.
 
-Test one: build it from scratch. Take the raw material, dissolve it, recrystallize it under the low pressures of the swirling cloud that predates planets, and see if these forms appear. If they can be made without life, the case collapses. I searched the literature for such an experiment with photographic proof. I found claims --- but no photographs. If the sections exist, I would genuinely like to see them, and I invite the reader to lay them beside mine.
+Test one: build it from scratch. Take the raw material, dissolve it, recrystallize it under the low pressures of the swirling cloud that predates planets, and see if these forms appear. Or higher pressures if one supposes an igneous processes. If they can be made without life, the case collapses. I searched the literature for such an experiment with photographic proof. I found claims --- but no photographs. There are illustrations by Vogt from 1882 that attempt to do this but do not succeed. If the sections exist, I would genuinely like to see them, and I invite the reader to lay them beside mine.
 
 Test two: compare with known rocks. Geologists classify Earth's rocks by comparison --- igneous, sedimentary, metamorphic --- and they know their fossils. On Earth, a rock packed with nummulites sits naturally among reef limestones, coquina, and fusulinid chalk, and only superficially resembles any lifeless rock; the difference is immediate under the microscope. Throughout this book, meteorite images are placed beside these terrestrial twins. Judge for yourself.
 
