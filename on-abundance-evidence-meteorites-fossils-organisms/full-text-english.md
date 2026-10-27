@@ -30,7 +30,7 @@ My first explanation was the sensible one: contamination. Something got into the
 
 The doubt lasted until I did two things at once. I examined more and more carbonaceous meteorites --- and the same features kept turning up, far beyond what accident could explain. And I looked at those features in cross-polarized light --- and discovered that they answered light in the same way as the inclusions enclosing them. A random contaminant --- pollen, a fiber, dust from the lapidary wheel --- lights up differently from the mineral that grew around it. These forms behaved as though they belonged to the stone. Whatever they were, they had been there, in place, since the meteorite itself formed.
 
-At the same time, entire inclusions appeared to be structured and these particles were located in related to these structures.
+At the same time, entire inclusions appeared to be structured and these particles were located in positions related to these structures.
 
 Contamination, as an explanation, quietly died at that point. What replaces it is the subject of this book.
 
