@@ -1,4 +1,4 @@
-# On the Abundance of Evidence that some Meteorites contain various Fossils of unidentified Organisms.
+# On the abundant Evidence that some Meteorites contain Fossils of Organisms.
 
 [English - Plain Text](full-text-english.md) | English - (GFM) Plain Text  
 English - PDF  
