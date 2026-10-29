@@ -211,6 +211,8 @@ In 1881, Weinland predicted that within ten years the meteoritic fauna would be 
 
 ### 2020 - [The Orgueil meteorite (Atlas of microfossils)](https://www.researchgate.net/publication/349917258_The_Orgueil_meteorite_Atlas_of_microfossils) by Richard Brice Hoover
 
+Plates 30 and 31 clearly demonstrate the existence of microfossils with morphologies similar to terrestrial diatoms!
+
 TODO: add summaries for each related to topic.
 
 ---
