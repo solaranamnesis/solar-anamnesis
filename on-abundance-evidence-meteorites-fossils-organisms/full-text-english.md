@@ -343,10 +343,6 @@ Compare with [Figure 7](https://archive.org/details/guidetofossilinv00brit/page/
 
 ## Microfossils.
 
-### Orgueil.
-
-### L'Aigle.
-
 ### Kainsaz.
 
 [Link to the Flickr Album for the Kainsaz Meteorite Thin-Section Images.](https://flic.kr/s/aHsmoJo3Gw)
