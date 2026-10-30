@@ -833,6 +833,8 @@ For the section as constructed, Vogt completes the dialectic: certification (Bio
 
 ### 1906 - [Worlds in the Making](https://github.com/solaranamnesis/svante-august-arrhenius) by Svante Arrhenius
 
+---
+
 ### 1916 - [The Nummulosphere. Part 3: The Ocean Floor or Benthoplankton](https://github.com/solaranamnesis/randolph-kirkpatrick) by Randolph Kirkpatrick
 
 #### Supporting Evidence for Fossil Organisms in Meteorites: An Analysis of the Nummulosphere Treatise.
@@ -863,9 +865,7 @@ Notably, the author concedes earlier errors in his own identifications --- objec
 
 As supporting material, the treatise offers four categories of evidence: (1) direct microscopic observation of nummulitic structure across the meteorite collection, including siderites; (2) experimental demonstration that organic structure survives fusion temperatures; (3) chemical and petrological identity between meteorites and presumed organic terrestrial deposits; and (4) reinterpretation of established petrographic descriptions as consistent with organic structure. It must be recorded, however, that the work's central claims were not accepted by contemporary science --- the author himself notes that his earlier book "was, I believe, regarded by some as a symptom of mental derangement" --- and that its evidentiary mode rests heavily upon "training of the sense of sight," an acknowledged interpretive skill that resists independent verification. The treatise's value for the present inquiry therefore lies less in settled fact than in its systematic articulation of the organic-origin hypothesis and its pre-emptive engagement with the principal objections that any theory of fossil organisms in meteorites must confront: survival through heat, explanation of exotic mineralogy, and the discrimination of genuine organic microstructure from mineralogical simulacra. On this last point the author's own testimony is instructive in both directions, demonstrating how readily "very transparent disk-structures strongly suggest Radiolarian lattices and spines" --- a caution that any later advocate of meteoritic fossils, no less than any sceptic, would do well to heed.
 
-#### 1920 - [On Chondrules and Chondritic Structure in Meteorites](https://archive.org/details/jstor-84323/) by George P. Merrill)
-
-(Although Arrhenius discusses panspermia, he and Merrill make no mention of the hypothesis that the chondrites could contain fossils and have an organic origin in 1906 and 1920, suggesting that the works of Hahn/Karsten/Weinland and others were ignored at this time in the "accepted" literature on the chondrites. Kirkpatrick's hypothesis was almost totally ignored, and in some cases ridiculed.)
+---
 
 ### 1961 - CLAUS, G., NAGY, B. A Microbiological Examination of Some Carbonaceous Chondrites. Nature 192, 594–596 (1961). https://doi.org/10.1038/192594a0
 
