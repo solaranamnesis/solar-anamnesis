@@ -207,6 +207,8 @@ The scholarly assessment of Flammarion's testimony must therefore be twofold. As
 
 ### 1865 - [On Darwinian Teachings](https://github.com/solaranamnesis/hermann-eberhard-friedrich-richter/blob/main/zur-darwinschen-lehre/full-text-german-gfm.md) by Hermann Eberhard Richter
 
+#### On the Testimony of Dr. H. E. Richter (1865) concerning Organic Remains in Meteorites and the Eternal Life.
+
 Dr. H. E. Richter's review-essay Zur Darwin'schen Lehre, published in the Jahrbücher der in- und ausländischen gesamten Medizin at Leipzig in 1865, is by a wide margin the earliest document in the present series to state the meteoritic life-transport hypothesis, and in one decisive respect it goes beyond every witness so far examined, Thomson and Helmholtz included: it is the first known argument to claim, explicitly and on scientific grounds, that the organic matter detected in meteorites consisted not of amorphous matter but of formed organic bodies --- the exact position from which the fossil hypothesis, the subject of this work, begins. Its provenance also commands attention: it appears not in an astronomical treatise or a cosmological romance but in a sober review of Darwinian literature in a medical yearbook, written by a physician for physicians, and composed years before Kelvin's Address made the question publicly fashionable.
 The critical position from which the hypothesis issues
 
@@ -234,6 +236,8 @@ Used within these limits, Richter's testimony is of the first importance to the 
 ---
 
 ### 1871 - [Professor Helmholtz's Discourse delivered at Heidelberg and at Cologne on the Origin of the Solar System](https://github.com/solaranamnesis/hermann-von-helmholtz/blob/main/uber-die-entstehung-des-planetensystems/full-text-german.md)
+
+#### On the Testimony of Hermann von Helmholtz (1871–1874) concerning the Dispersal of Life through Space.
 
 Hermann von Helmholtz's lecture Über die Entstehung des Planetensystems, delivered at Heidelberg and Cologne in the spring of 1871 and published in the third collection of his Populäre wissenschaftliche Vorträge, together with the supplementary Zusatz and his Preface of December 1873 to the German translation of Thomson and Tait's Handbook of Theoretical Physics, supplies the present section with its most authoritative physical defence of the proposition that meteorites may convey life between worlds. The circumstances of authorship carry weight that no secondary account can convey: the argument appears in a formal exposition of the Kant–Laplace hypothesis by the foremost physicist of the age, was advanced --- as Helmholtz himself claims --- before Sir William Thomson's celebrated 1871 Edinburgh address, and was subsequently defended by its author in print against Zöllner's attack with the full apparatus of observational physics.
 The closing question of the lecture
@@ -270,6 +274,8 @@ In the architecture of the present work, this preface should be handled as the c
 
 ### 1871 - [Address of Sir William Thomson, Knt., LL. D., F. R. S., President](https://github.com/solaranamnesis/william-thomson/blob/main/address-william-thomson-1871/full-text-english.md)
 
+#### On the Testimony of Sir William Thomson (1871) concerning Seed-Bearing Fragments from the Ruins of Another World.
+
 Sir William Thomson's Presidential Address to the British Association for the Advancement of Science, delivered at Edinburgh in the autumn of 1871, is the document from which the entire Thomson–Helmholtz–Zöllner controversy issued, and --- together with Flammarion's advocacy --- the canonical nineteenth-century statement of the hypothesis that life reached the Earth by meteoritic transport. With this text now directly in hand, the present work completes its evidential chain at the level of primary sources: Flight's English digest and Helmholtz's German paraphrase, both treated above, reproduce this address at second remove, and the passages they preserve can now be quoted in Thomson's own words. Yet the Address demands more than citation, for its argument is more carefully constructed than the caricature --- Kelvin loftily scattering mossy stones --- that the Plymouth meeting's wits enjoyed three years later.
 The structure of the argument
 
@@ -292,6 +298,8 @@ Within the architecture of this section, Thomson's Address stands as the formal 
 ---
 
 ### 1872 - [About Bacteria](https://github.com/solaranamnesis/ferdinand-julius-cohn/blob/main/uber-bakterien/full-text-german-gfm.md) by Ferdinand Cohn
+
+#### On the Testimony of Ferdinand Cohn (1872) concerning Bacteria as Vehicles of Cosmic Life.
 
 Ferdinand Cohn's Über Bakterien, die kleinsten lebenden Wesen (Berlin, 1872) enters the present section from a direction no previous witness occupied: not from chemistry, physics, astronomy, or evolutionary controversy, but from the brand-new science of bacteriology, of which Cohn --- professor at Breslau, founder of the Beiträge zur Biologie der Pflanzen, and the coming architect of bacterial taxonomy --- was the leading German representative. His testimony is accordingly of a distinctive kind: it neither analyses meteorites nor computes trajectories, but establishes, from rigorous laboratory experiment, the microbiological preconditions of the transport hypothesis --- and then, in a closing speculative passage, lends the weight of the foremost bacteriological authority of the age to the proposition that life's germs pass between worlds.
 The experimental foundation
@@ -359,6 +367,8 @@ Taken together, the four witnesses present a coherent progression. Berzelius (18
 
 ### 1877 - [Address delivered at the Plymouth meeting of the British Association for the Advancement of Science, August 15, 1877](https://github.com/solaranamnesis/allen-thomson/blob/main/plymouth-meeting-british-association-sciences/full-text-english.md) by Allen Thomson
 
+#### On the Testimony of Allen Thomson (1877) concerning Biogenesis, Abiogenesis, and the Meteoritic Transport of Germs.
+
 Allen Thomson's Presidential Address to the British Association, delivered at Plymouth on 15 August 1877 — the address from which, as recorded in the treatment of Flight's review above, the celebrated Plymouth discussion of Kelvin's hypothesis issued — is essential to the present section for a reason quite opposite to the documents that surround it. Where Thomson, Helmholtz, Cohn, and Richter supply the physical and microbiological scaffolding of the transport hypothesis, Allen Thomson's Address supplies its most authoritative contemporary caution, delivered from the presidential chair itself by an embryologist of the first rank; and its actual wording, now available in the primary text, materially qualifies the impression given by Flight's digest of the meeting. Any work that cites the Plymouth episode must reckon with this text at first hand.
 The Address itself
 
@@ -384,6 +394,8 @@ For the present work, Allen Thomson's testimony performs the indispensable funct
 ---
 
 ### 1877 - [Meteorites and the Origin of Life](https://github.com/solaranamnesis/walter-flight/blob/main/meteorites-and-origin-life/full-text-english.md) by Walter Flight
+
+#### On the Testimony of Walter Flight (1877) concerning Organic Compounds in Meteorites and the Transport of Life.
 
 Walter Flight's review Meteorites and the Origin of Life, published in the Popular Science Review in 1877, serves the present section in two capacities at once. Written by the chemist of the Department of Mineralogy at the British Museum --- a custodian of the very specimens the earlier witnesses analysed --- it is at once a secondary digest of the entire evidential chain assembled above and the documentary record of a controversy, conducted at the highest level of Victorian science, over whether meteorites could carry life between worlds. Within it, Kelvin's panspermic hypothesis, Helmholtz's defence of it, and Zöllner's celebrated attack are rehearsed by a participant observer; and it is Flight who first compiles, in chronological order, the complete inventory of organic detections across the falls then known --- the catalogue upon which any historical claim of "abundant evidence" must rest.
 The Thomson–Helmholtz–Zöllner controversy
