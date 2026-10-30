@@ -11,7 +11,6 @@
   - [What Fossils are made of.](#what-fossils-are-made-of)
   - [What Follows.](#what-follows)
 - [Summary of Literature related to Discoveries of Fossilized Life in Meteorites.](#summary-of-literature-related-to-discoveries-of-fossilized-life-in-meteorites)
-    - [1794 - On the Origin of the Iron Masses Discovered by Pallas and others like them, and on some Related Natural Phenomena by Ernst Florens Friedrich Chladni](#1794---on-the-origin-of-the-iron-masses-discovered-by-pallas-and-others-like-them-and-on-some-related-natural-phenomena-by-ernst-florens-friedrich-chladni)
     - [1803 - Account of a Journey made in the Department of Orne to verify the Existence of a Meteor observed in L'Aigle on the 6th of Floréal, Year 11 by Jean-Baptiste Biot](#1803---account-of-a-journey-made-in-the-department-of-orne-to-verify-the-existence-of-a-meteor-observed-in-laigle-on-the-6th-of-floréal-year-11-by-jean-baptiste-biot)
       - [On the Testimony of J.-B. Biot (1803) concerning the Certified Reality of the Fall at L'Aigle.](#on-the-testimony-of-j-b-biot-1803-concerning-the-certified-reality-of-the-fall-at-laigle)
       - [The method.](#the-method)
@@ -282,8 +281,6 @@ In 1881, Weinland predicted that within ten years the meteoritic fauna would be 
 ---
 
 # Summary of Literature related to Discoveries of Fossilized Life in Meteorites.
-
-### 1794 - [On the Origin of the Iron Masses Discovered by Pallas and others like them, and on some Related Natural Phenomena](https://github.com/solaranamnesis/Ernst-Florens-Friedrich-Chladni/blob/main/pallas-eisenmassen/full-text-german.md) by Ernst Florens Friedrich Chladni
 
 ### 1803 - [Account of a Journey made in the Department of Orne to verify the Existence of a Meteor observed in L'Aigle on the 6th of Floréal, Year 11](https://github.com/solaranamnesis/jean-baptiste-biot/blob/main/relation-voyage-orne-meteore-aigle/full-text-french.md) by Jean-Baptiste Biot
 
