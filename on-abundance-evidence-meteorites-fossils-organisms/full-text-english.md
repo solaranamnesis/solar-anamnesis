@@ -109,7 +109,6 @@
       - [Antecedents in the Literature.](#antecedents-in-the-literature)
       - [Addressed Objections and the Author's Candour.](#addressed-objections-and-the-authors-candour)
       - [Critical Assessment.](#critical-assessment)
-      - [1920 - On Chondrules and Chondritic Structure in Meteorites by George P. Merrill)](#1920---on-chondrules-and-chondritic-structure-in-meteorites-by-george-p-merrill)
     - [1961 - CLAUS, G., NAGY, B. A Microbiological Examination of Some Carbonaceous Chondrites. Nature 192, 594–596 (1961). https://doi.org/10.1038/192594a0](#1961---claus-g-nagy-b-a-microbiological-examination-of-some-carbonaceous-chondrites-nature-192-594596-1961-httpsdoiorg101038192594a0)
     - [1962 - FITCH, F., SCHWARCZ, H. & ANDERS, E. ‘Organized Elements’ in Carbonaceous Chondrites. Nature 193, 1123–1125 (1962). https://doi.org/10.1038/1931123a0](#1962---fitch-f-schwarcz-h-anders-e-organized-elements-in-carbonaceous-chondrites-nature-193-11231125-1962-httpsdoiorg1010381931123a0)
     - [1965 - VANLANDINGHAM, S. Evidence for Microfossils in the Alais and Orgueil Carbonaceous Meteorites. Nature 208, 947–948 (1965). https://doi.org/10.1038/208947a0](#1965---vanlandingham-s-evidence-for-microfossils-in-the-alais-and-orgueil-carbonaceous-meteorites-nature-208-947948-1965-httpsdoiorg101038208947a0)
