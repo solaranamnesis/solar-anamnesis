@@ -1282,15 +1282,19 @@ Structure is clearly not an impact spherule. In thin section the outer profile i
 
 https://flic.kr/s/aHsmJ1mjBw
 
-Structure is circular in thin section. Circular outer rim is nearly smooth. Large outer ring which encircles a smaller central circular region is common, although sometimes the outer ring is the same size as that in Structure A. The interior maze-like region lakes the same dark-brown colored patch as in Structure A. Transverse structures are also observed clearly in the interior maze-like structure only, just like in Structure A they are not present in the outer ring. Although in Structure B there are large connecting fibers that run exactly perpendicular to the outer rim and connect the outer rim to the inner circular region. On close zoom of one found in the NWA 2892 Meteorite Thin Section Album, labelled NWA 2892 Image 2, clear spicules are observed in the interior circular maze-like region of the secondary non-olivine mineral. Other large dark black or brown colored patches can be seen which seem to be other structures or food particles circulating at the time of preservation. Excellent preservation can be seen in Dar al Gani 1040, NWA 5930, Selma, NWA 2224, Saratov Meteorites.
+Structure is circular in thin section. Circular outer rim is nearly smooth. Large outer ring which encircles a smaller central circular region is common, although sometimes the outer ring is the same size as that in Structure A. The interior maze-like region lakes the same dark-brown colored patch as in Structure A. Transverse structures are also observed clearly in the interior maze-like structure only, just like in Structure A they are not present in the outer ring. Although in Structure B there are large connecting fibers that run exactly perpendicular to the outer rim and connect the outer rim to the inner circular region. On close zoom of one found in the NWA 2892 Meteorite Thin Section Album, labelled NWA 2892 Image 2, clear spicules are observed in the interior circular maze-like region of the secondary non-olivine mineral. Other large dark black or brown colored patches can be seen which seem to be other structures or food particles circulating at the time of preservation. Excellent preservation can be seen in Dar al Gani 1040, NWA 5930, Selma, NWA 2224, Saratov Meteorites. I would consider it as possibily some kind of species with analogous terrestrial forms like some Foraminifera, or perhaps some kinds of Polycistines.
 
 ## Structure C.
 
 https://flic.kr/s/aHsmNZyt6w
 
+This structure is highly noticeable in thin sections and occurs in the Saratov, Knyahinya, and Borkut Meteorites. The outer profile is not circular despite their being, in the interior one or more circular rings. In fact these circular rings are nested inside each other in a peculiar pattern. It seems almost like growth patterns but difficult to say definitively; perhaps they could also be the internal structure. The appearance is highly reminiscent of a living organism, and my analogous relations are more speculative for this ones: perhaps a single cell like organism that produces these shapes, like Foraminifera or Radiolaria but quite different from terrestrial ones.
+
 ## Structure D.
 
 https://flic.kr/s/aHsmRWZ6Fm
+
+Circular structures which have intricate mesh-like interiors with various structures of secondary minerals arranged in particular parts of the interior; dark iron patches in organized patterns mostly along the outer rim. Difficult to say whether this is the entire organism or if it is a part of an organism, perhaps these align with the miniature corals identified by Weinland. Occur in the Saratov, Santa Vitoria do Palmar, Clarendon, NWA 2097, NWA 4910, NWA 4126, NWA 2892 Meteorites.
 
 ## Structure E.
 
