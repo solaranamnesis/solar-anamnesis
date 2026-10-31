@@ -6,8 +6,6 @@
 
 ## Table of Contents
 
-- [On the abundant Evidence that some Meteorites contain Fossils of Organisms.](#on-the-abundant-evidence-that-some-meteorites-contain-fossils-of-organisms)
-  - [By Solar Anamnesis.](#by-solar-anamnesis)
 - [Introduction.](#introduction)
   - [First, look at the Pictures.](#first-look-at-the-pictures)
   - [How I came to look.](#how-i-came-to-look)
