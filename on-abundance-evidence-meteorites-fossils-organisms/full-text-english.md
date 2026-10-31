@@ -1300,11 +1300,13 @@ Circular structures which have intricate mesh-like interiors with various struct
 
 https://flic.kr/s/aHsmSjWMBi
 
-This structure is nearly identical to the one from Hahn's Table 1: Figure 4, which was classed under the corals. In visible light in thin sections, the interior structure has a strikingly smalt blue color, as mentioned by Hahn and Weinland. The outer structure is a light brown; it has fine structural details. Not circular, elliptical in overall shape with irregular profile in thin section. The smalt blue interior in criss-crossed by very fine and long extensions which appear to be like tubes, all aligned with each other. These sometimes curve smoothly and even cases where they curve 90 to 180 degrees. This appears nearly identical to the coral cross section presented by Vogt as the example of coral cross sections. I would also agree with this classification for now, placing it in a category of organisms similar to terrestrial corals. See the specimen in the NWA 2892 Meteorite Album.
+This structure is identified from Hahn's Table 1: Figure 4 from the Knyahinya Meteorite, which was classed under the corals. In visible light in thin sections, the interior structure has a strikingly smalt blue color, as mentioned by Hahn and Weinland. The outer structure is a light brown; it has fine structural details. Not circular, elliptical in overall shape with irregular profile in thin section. The smalt blue interior in criss-crossed by very fine and long extensions which appear to be like tubes, all aligned with each other. These sometimes curve smoothly and even cases where they curve 90 to 180 degrees. This appears nearly identical to the coral cross section presented by Vogt as the example of coral cross sections. I would also agree with this classification for now, placing it in a category of organisms similar to terrestrial corals. See the specimen in the NWA 2892 Meteorite Album.
 
 ## Structure F.
 
 https://flic.kr/s/aHsmWVLJ5T
+
+Small circular inclusions in thin sections of numerous meteorites, including carbonaceous meteorites. These resemble the countless spherical forms of Foraminifera. In cross polarized light their interior is revealed to be highly segmented in a spoke like radial pattern; as if each section is a chamber. These could also be seeds or other parts of organisms. Difficult to classify their exact role and niche, without more extensive sampling. Perhaps similar to terrestrial benthic Foraminifera.
 
 ## Structure G.
 
