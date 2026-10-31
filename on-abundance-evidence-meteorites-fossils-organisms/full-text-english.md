@@ -1312,11 +1312,11 @@ Small circular inclusions in thin sections of numerous meteorites, including car
 
 https://flic.kr/p/2mFYo3w
 
-...
+An excellent preserved specimen found only in the NWA 8773 Meteorite Thin Section - Images 11, 12, 13 Annotated. In thin section perfect spherical profile but with a clear arc shaped appendage attached and highly structured interior. Attached appendages have long strands or threads extending far beyound the spherical profile. One is reminded of pseudopods and in particular, the pseudopods of Globigerina or other Foraminfera. See the annotated image for all the fine structure of the interior and the pseudopods.
 
-Annotated Album: https://flic.kr/s/aHBqjAFsqx
+For the full Annotated Album: https://flic.kr/s/aHBqjAFsqx
 
-...
+---
 
 # Altered Meteorites and their Fossils.
 
