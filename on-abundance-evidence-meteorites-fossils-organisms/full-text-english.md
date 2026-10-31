@@ -1,3 +1,9 @@
+# On the abundant Evidence that some Meteorites contain Fossils of Organisms.
+
+## By Solar Anamnesis.
+
+---
+
 ## Table of Contents
 
 - [On the abundant Evidence that some Meteorites contain Fossils of Organisms.](#on-the-abundant-evidence-that-some-meteorites-contain-fossils-of-organisms)
@@ -156,12 +162,6 @@
     - [Murchison.](#murchison)
 - [Appendix.](#appendix)
   - [Additional Evidence from scanned Meteorite Thin-Sections.](#additional-evidence-from-scanned-meteorite-thin-sections)
-
-# On the abundant Evidence that some Meteorites contain Fossils of Organisms.
-
-## By Solar Anamnesis.
-
----
 
 ---
 
