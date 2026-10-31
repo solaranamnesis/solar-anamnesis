@@ -1266,9 +1266,7 @@ As supporting material, the treatise offers four categories of evidence: (1) dir
 
 ### 2020 - [The Orgueil meteorite (Atlas of microfossils)](https://www.researchgate.net/publication/349917258_The_Orgueil_meteorite_Atlas_of_microfossils) by Richard Brice Hoover
 
-Plates 30 and 31 clearly demonstrate the existence of microfossils with morphologies similar to terrestrial diatoms!
-
-TODO: add summaries for each related to topic.
+SEM output in Plates 30 and 31 clearly demonstrate the existence of microfossils with morphologies similar to terrestrial diatoms!
 
 ---
 
@@ -1277,6 +1275,8 @@ TODO: add summaries for each related to topic.
 ## Structure A.
 
 https://flic.kr/s/aHsmGQBSBE
+
+Structure is clearly not impact spherules. Most of the time their outer surface is mulberry like, bumpy, and in some cases with two or more characteristic protuberances on this outer surface. Bilateral symmetry is exhibited. Most cases show a dark, black-brown in color patch located exactly at the outer rim; it appears to be some kind of rooting point; it appears to be like the siphon or pump that might ingest food particles and circulate them through its interior. Close up inspection on zoom reveals countless transverse structures inside the central inner circular structure. Exceedingly long channels that transverse large sections of the entire central circular region. Cross polarized light reveals entire sections of the interior with identical polarization properties, perhaps indicating a permineralized chiral protein solution. A close zoom reveals a dense maze of what appears to be the interior, sometime filled with tiny shapes that appear similar to sponge larva. Nearly perfect preservation of the fine structures in thin section slides: Allende, NWA 5930, NWA 2224. Considering the terrestrial sponge and its niche and habitus, I would consider it as possibly a similar type species occupying a similar niche and mode of living.
 
 ## Structure B.
 
