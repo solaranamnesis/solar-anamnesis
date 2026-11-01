@@ -250,7 +250,7 @@ At the same time, some carbonaceous meteorites contained inclusions that appeare
 
 <!-- EDITOR Q: how were the 136 sections obtained (museum, dealer, own preparation), which are observed falls versus finds, and what are their classifications? The bench-contamination test excludes slide-preparation contamination only; falls vs. hot-desert finds matter for weathering and pre-sectioning contamination. -->
 
-Contamination at the bench, as an explanation, quietly died at that point. What replaces it is the subject of this book.
+Contamination at the bench, as an explanation, lingered at the back of my mind until it became noticeable that larger structures embedded in the meteorite matrix appeared to be formed by some kind of microscopic organisms; in fact I put aside the tiny features and focused on the matrix itself since most readers unfamiliar with what I am about to present will certainly say it is contamination. Hoover's paper, which we will review later, expounds on the important fact that the microfossils discovered in the Orgueil Meteorite and other carbonaceous meteorites have very low, or no, nitrogen abundance --- a fact that clearly demonstrates that these structures cannot be contamination as any biologist would know --- and are extremely ancient. What replaces it is the subject of this book.
 
 ## The Line that was already long.
 
