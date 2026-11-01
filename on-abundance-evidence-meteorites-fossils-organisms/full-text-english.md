@@ -189,7 +189,7 @@
   - [Structure E.](#structure-e)
   - [Structure F.](#structure-f)
   - [Structure G.](#structure-g)
-- [Altered Meteorites and their Fossils.](#altered-meteorites-and-their-fossils)
+- [Silicified Meteorites and their Fossils.](#silicified-meteorites-and-their-fossils)
   - [Knyahinya.](#knyahinya)
   - [Julesberg.](#julesberg)
   - [Saratov.](#saratov)
@@ -210,13 +210,12 @@
   - [Northwest Africa 4723.](#northwest-africa-4723)
   - [Northwest Africa 2224.](#northwest-africa-2224)
   - [Northwest Africa 3118.](#northwest-africa-3118)
-- [Unaltered Meteorites and their Fossils.](#unaltered-meteorites-and-their-fossils)
-  - [Microfossils.](#microfossils)
+- [Carbonaceous Meteorites and their Fossils.](#carbonaceous-meteorites-and-their-fossils)
     - [Kainsaz.](#kainsaz)
     - [Moss.](#moss)
     - [Murchison.](#murchison)
 - [Appendix.](#appendix)
-  - [Additional Evidence from scanned Meteorite Thin-Sections.](#additional-evidence-from-scanned-meteorite-thin-sections)
+  - [Additional scanned Meteorite Thin-Sections.](#additional-evidence-from-scanned-meteorite-thin-sections)
 
 ---
 
@@ -1387,7 +1386,7 @@ For the full Annotated Album: https://flic.kr/s/aHBqjAFsqx
 
 ---
 
-# Altered Meteorites and their Fossils.
+# Silicified Meteorites and their Fossils.
 
 ## Knyahinya.
 
@@ -1473,19 +1472,17 @@ Compare with [Figure 7](https://archive.org/details/guidetofossilinv00brit/page/
 
 ...
 
-# Unaltered Meteorites and their Fossils.
+# Carbonaceous Meteorites and their Fossils.
 
-## Microfossils.
-
-### Kainsaz.
+## Kainsaz.
 
 [Link to the Flickr Album for the Kainsaz Meteorite Thin-Section Images.](https://flic.kr/s/aHsmoJo3Gw)
 
-### Moss.
+## Moss.
 
 [Link to the Flickr Album for the Moss Meteorite Thin-Section Images.](https://flic.kr/s/aHsmvzoMX8)
 
-### Murchison.
+## Murchison.
 
 [Link to the Flickr Album for the Murchison Meteorite Thin-Section Images.](https://flic.kr/s/aHBqjD8CTG)
 
@@ -1493,7 +1490,7 @@ Compare with [Figure 7](https://archive.org/details/guidetofossilinv00brit/page/
 
 # Appendix.
 
-## Additional Evidence from scanned Meteorite Thin-Sections.
+## Additional scanned Meteorite Thin-Sections.
 
 [Link to Entire Thin-Section Collection scanned with Pathscan Enabler 5.](https://flic.kr/s/aHsmHp1vQd)
 
