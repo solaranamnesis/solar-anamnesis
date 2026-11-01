@@ -234,7 +234,7 @@ Most photographs come in pairs --- the same patch of stone shown in ordinary lig
 
 ## How I came to look.
 
-A few years ago, I spent thousands of hours photographing 136 meteorite thin sections --- slices of stone ground down until light passes through them, thin enough that a microscope can reveal everything inside. I stitched the photographs into gigapixel mosaics, building explorable landscapes out of each stone, purely as an art project. No hypothesis. No expectations. I wanted beautiful images of stones that had fallen from space.
+A few years ago, I spent thousands of hours photographing 136 meteorite thin sections, full list found at the [Encyclopedia of Meteorites' Collections](https://encyclopedia-of-meteorites.com/Collections) --- slices of stone ground down until light passes through them, thin enough that a microscope can reveal everything inside. I stitched the photographs into gigapixel mosaics, building explorable landscapes out of each stone, purely as an art project. No hypothesis. No expectations. I wanted beautiful images of stones that had fallen from space.
 
 [Gigapixel Meteorite Photomicrographs.](https://flic.kr/s/aHskNcCAmj)
 
