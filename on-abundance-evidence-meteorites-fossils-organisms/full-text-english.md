@@ -307,7 +307,7 @@ And no one could take the chemical elements of a nummulite, shake them together,
 
 ## What Follows.
 
-On Earth, geologists identify layers of rock by their index fossils --- common, easily recognized species that lived for a limited time across a wide area, letting layers in different places be matched and dated. If some meteorites contain fossil organisms, then the same principle reaches beyond Earth --- and the classification of meteorites, built while assuming they are sterile, will have to grow to accommodate it. Not as a scandal, but as a widening. To emphasize: this paper does not make any claim about _living and viable organisms in meteorites_, strictly _fossil_.
+On Earth, geologists identify layers of rock by their index fossils --- common, easily recognized species that lived for a limited time across a wide area, letting layers in different places be matched and dated. If some meteorites contain fossil organisms, then the same principle reaches beyond Earth --- and the classification of meteorites, built while assuming they are sterile, will have to grow to accommodate it. Not as a scandal, but as a widening. To emphasize: this paper does not make any claim about _living and viable organisms in meteorites_, strictly _fossil_. To investigate panspermia and the transfer of living and viable organisms I would suggest a project to monitor and capture freshly fallen Gelatinous Meteorites or balloon experiments in the upper atmosphere to capture particles far above the surface of the Earth like those by Wainwright.
 
 [Figure of Sternberger Kuchen (Sternberg Cake). Stadtmuseum Berlin, CC BY 3.0, via Wikimedia Commons.](https://commons.wikimedia.org/wiki/File:StadtmuseumBerlin_GeologischeSammlung_SM-2012-4234.jpg)
 
