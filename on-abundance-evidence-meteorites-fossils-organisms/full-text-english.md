@@ -325,12 +325,10 @@ On Earth, geologists identify layers of rock by their index fossils --- common, 
 
 [Figure of Fusulinid limestone (Iola Formation, Upper Pennsylvanian; Elk County, southeastern Kansas, USA). James St. John, CC BY 2.0 via Flickr.](https://flic.kr/p/pnDtCC)
 
-The chapters ahead proceed in four parts:
+The chapters ahead proceed in two parts:
 
 - The History --- the forgotten two-century lineage, from Chladni, Biot, Berzelius, and Hahn to the present --- told through their own words and images.
 - The Evidence --- my gigapixel photomicrographs of 136 thin sections, paired plane-light and cross-polarized views, placed beside their terrestrial fossil counterparts, including modern sponges, their larvae, and other living builders of mineral architecture.
-- The Counterarguments (in preparation) --- contamination, mineral mimicry, and the mainstream interpretations, named clearly and weighed against the photographs.
-- The Implications (in preparation) --- if these stones are the wreckage of living worlds, delivered here across deep time --- some permineralized, some perhaps preserved directly in the vacuum --- what does that change?
 
 A word on what this book claims. It does not claim that any single photograph proves a fossil: a single striking image can always be matched by some crystal somewhere. It claims that the evidence is cumulative --- many forms, in many stones, recurring in consistent patterns --- and that careful people have shared the same suspicion for two centuries. Whether that adds up to proof is for you, and ultimately for measurements that other laboratories can repeat, to decide.
 
