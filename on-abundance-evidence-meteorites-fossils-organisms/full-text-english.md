@@ -1310,29 +1310,123 @@ As supporting material, the treatise offers four categories of evidence: (1) dir
 
 ### 1961 - CLAUS, G., NAGY, B. A Microbiological Examination of Some Carbonaceous Chondrites. Nature 192, 594–596 (1961). https://doi.org/10.1038/192594a0
 
+...
+
+#### Assessment.
+
+...
+
+---
+
 ### 1962 - FITCH, F., SCHWARCZ, H. & ANDERS, E. ‘Organized Elements’ in Carbonaceous Chondrites. Nature 193, 1123–1125 (1962). https://doi.org/10.1038/1931123a0
+
+...
+
+#### Assessment.
+
+...
+
+---
 
 ### 1965 - VANLANDINGHAM, S. Evidence for Microfossils in the Alais and Orgueil Carbonaceous Meteorites. Nature 208, 947–948 (1965). https://doi.org/10.1038/208947a0
 
+...
+
+#### Assessment.
+
+...
+
+---
+
 ### 1975 - [Carbonaceous Meteorites](https://catalog.hathitrust.org/Record/000025259) by Bartholomew Nagy
+
+...
+
+#### Assessment.
+
+...
+
+---
 
 ### 1984 - Pflug, H.D. (1984). Ultrafine structure of the organic matter in meteorites. In Fundamental Studies and the Future of Science, ed. Wickramasinghe, N.C., pp. 24–37. University College Cardiff Press, Cardiff. [Google Scholar](https://scholar.google.com/scholar_lookup?title=Fundamental+Studies+and+the+Future+of+Science&author=Pflug+H.D.&author=Wickramasinghe+N.C.&publication+year=1984&pages=24-37) ISBN 10: 090644957X / ISBN 13: 9780906449578
 
+...
+
+#### Assessment.
+
+...
+
+---
+
 ### 1986 - [Diatoms on Earth, Comets, Europa and in interstellar Space](https://ui.adsabs.harvard.edu/scan/manifest/1986EM&P...35...19H) by Richard B. Hoover, Fred Hoyle, N. C. Wickramasinghe, Miriam J. Hoover, and S. Al-Mufti
+
+...
+
+#### Assessment.
+
+...
+
+---
 
 ### 1996 - David S. McKay et al., Search for Past Life on Mars: Possible Relic Biogenic Activity in Martian Meteorite ALH84001. Science 273, 924-930 (1996). [DOI:10.1126/science.273.5277.924](https://doi.org/10.1126/science.273.5277.924)
 
+...
+
+#### Assessment.
+
+...
+
+---
+
 ### 2010 - Bacterial morphologies in carbonaceous meteorites and comet dust by N. Chandra Wickramasinghe (Cardiff Univ. UK), Max K. Wallis (Cardiff Univ. UK), Carl H. Gibson (Univ. Cal. San Diego US), Jamie Wallis (Cardiff Univ. UK), Shirwan Al-Mufti (Cardiff Univ. UK), Nori Miyake (Cardiff Univ. UK) [https://arxiv.org/abs/1008.3860](https://arxiv.org/abs/1008.3860)
+
+...
+
+#### Assessment.
+
+...
+
+---
 
 ### 2011 - [Fossils of Cyanobacteria in CI1 Carbonaceous Meteorites: Implications to Life on Comets, Europa, and Enceladus](https://www.researchgate.net/publication/245540356_Fossils_of_Cyanobacteria_in_CI1_Carbonaceous_Meteorites_Implications_to_Life_on_Comets_Europa_and_Enceladus) by Richard Brice Hoover
 
+...
+
+#### Assessment.
+
+...
+
+---
+
 ### 2013 - Milton Wainwright, Christopher E. Rose, Alexander J. Baker, et al. (2013). Allen Hills and Schopf-like Putative Fossilized Bacteria Seen in a New Type of Carbonaceous Meteorite. Journal of Cosmology, 22. https://doi.org/10.5334/jc.sh
 
+...
+
+#### Assessment.
+
+...
+
+---
+
 ### 2013 - [Fossil Diatoms in a New Carbonaceous Meteorite](https://arxiv.org/abs/1303.2398) by Wickramasinghe, N. C.; Wallis, J.; Wallis, D. H.; Samaranayake, Anil
+
+...
+
+#### Assessment.
+
+...
+
+---
 
 ### 2020 - [The Orgueil meteorite (Atlas of microfossils)](https://www.researchgate.net/publication/349917258_The_Orgueil_meteorite_Atlas_of_microfossils) by Richard Brice Hoover
 
 SEM output in Plates 30 and 31 shows structures with morphologies similar to terrestrial diatoms. <!-- EDITOR: calibrated from "clearly demonstrate the existence of microfossils ... !"; replace with your own summary of this work (your TODO). -->
+
+...
+
+#### Assessment.
+
+...
 
 ---
 
