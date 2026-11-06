@@ -1310,6 +1310,8 @@ As supporting material, the treatise offers four categories of evidence: (1) dir
 
 ### 1961 - CLAUS, G., NAGY, B. A Microbiological Examination of Some Carbonaceous Chondrites. Nature 192, 594–596 (1961). https://doi.org/10.1038/192594a0
 
+First modern publication concerning the fossils found in carbonaceous meteorites.
+
 ...
 
 #### Assessment.
@@ -1319,6 +1321,10 @@ As supporting material, the treatise offers four categories of evidence: (1) dir
 ---
 
 ### 1962 - FITCH, F., SCHWARCZ, H. & ANDERS, E. ‘Organized Elements’ in Carbonaceous Chondrites. Nature 193, 1123–1125 (1962). https://doi.org/10.1038/1931123a0
+
+'Organized Elements' terminology used to be more reserved and conservative, compare with Vanlandingham's 1965 title: "Evidence for Microfossils in the Alais and Orgueil Carbonaceous Meteorites."
+
+Black and white microphotographs, no focus stacking, small photographs, details hard to analyze in such a format.
 
 ...
 
