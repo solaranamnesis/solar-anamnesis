@@ -1582,7 +1582,7 @@ Compare the inclusions with Table 2 from _Über einige Bryozoen aus dem deutsche
 
 [Link to the Flickr Album for the Northwest Africa 3118 Meteorite Thin Section Images.](https://flic.kr/s/aHBqjD8KQk)
 
-...
+---
 
 # Carbonaceous Meteorites and their Fossils.
 
@@ -1609,6 +1609,8 @@ Compare the inclusions with Table 2 from _Über einige Bryozoen aus dem deutsche
 ## Calama 005.
 
 [Link to the Flickr Album for the Calama 005 Meteorite Thin Section Images.](https://flic.kr/s/aHskPf3qdY)
+
+---
 
 # Appendix.
 
@@ -1693,3 +1695,9 @@ A cross-polarized light version of this thin section can also be seen in gigapix
 [Chug Chug 009 Thin Section, visible light.](https://flic.kr/p/2iBSdzx)
 
 [Chug Chug 009 Thin Section, cross-polarized light.](https://flic.kr/p/2iBUSPC)
+
+### Northwest Africa 5910.
+
+[Northwest Africa 5910 Thin Section, visible light.](https://flic.kr/p/2iaEDnS)
+
+[Northwest Africa 5910 Thin Section, cross-polarized light.](https://flic.kr/p/2iaFJYF)
