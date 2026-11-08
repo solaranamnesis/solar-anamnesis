@@ -239,7 +239,7 @@ My full setup included a metallurgical OMAX microscope using the 4x/0.25 Objecti
 
 [Gigapixel Meteorite Photomicrographs Album Online at Flickr.](https://flic.kr/s/aHskNcCAmj)
 
-Then, in the carbonaceous meteorites --- the dark, carbon-rich kind --- I began to notice things. Small forms inside the inclusions, recurring from stone to stone. Shapes that looked, to my eyes, organic.
+Then, in the carbonaceous meteorites --- the dark, carbon-rich kind --- I began to notice things. Small forms inside the inclusions, recurring from stone to stone. Shapes that looked, to my eyes, organic. See this [Carbonaceous Meteorite image Album](https://flic.kr/s/aHsmwq2JZg) for your own inspection of what I mean, as a picture indeed is worth thousands of words.
 
 My first explanation was the sensible one: contamination. Something got into the stone or the slide during cutting and grinding. That is what anyone would think. So I noted it and moved on to the next stone. But the forms kept appearing, in independent stones prepared independently.
 
@@ -1474,7 +1474,7 @@ This structure is identified from Hahn's Table 1: Figure 4 from the Knyahinya Me
 
 https://flic.kr/s/aHsmWVLJ5T
 
-Small circular inclusions in thin sections of numerous meteorites, including carbonaceous meteorites. These resemble the countless spherical forms of Foraminifera. In cross polarized light their interior is revealed to be highly segmented in a spoke like radial pattern; as if each section is a chamber. Radial spoke-like segmentation in cross-polarized light implies chambered construction—reminiscent of foraminiferal tests or embryonic stages. An alternative could also be seeds or other parts of larger organisms. Difficult to classify their exact role and niche, without more extensive sampling. Perhaps similar to terrestrial benthic Foraminifera.
+Small circular inclusions in thin sections of numerous meteorites, including carbonaceous meteorites. These resemble the countless spherical forms of Foraminifera. In cross polarized light their interior is revealed to be highly segmented in a spoke like radial pattern; as if each section is a chamber. Radial spoke-like segmentation in cross-polarized light implies chambered construction—reminiscent of foraminiferal tests or embryonic stages. An alternative could also be seeds or other parts of larger organisms. Difficult to classify their exact role and niche, without more extensive sampling. Perhaps similar to terrestrial benthic Foraminifera. These do not resemble the impact spherules found in the thin sections of [Lunar Meteorites](https://flic.kr/s/aHsmJKKAgh) like NWA 10203 and NWA 5000.
 
 ## Structure G.
 
