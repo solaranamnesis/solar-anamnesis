@@ -1616,22 +1616,80 @@ Compare the inclusions with Table 2 from _Über einige Bryozoen aus dem deutsche
 
 [Link to Entire Thin Section Collection scanned with Pathscan Enabler 5.](https://flic.kr/s/aHsmHp1vQd)
 
+### Aba Panu.
+
+[Aba Panu Thin Section 1, visible light.](https://flic.kr/p/2hmu6Nm)
+
+[Aba Panu Thin Section 1, cross-polarized light.](https://flic.kr/p/2hmuPtB)
+
+[Aba Panu Thin Section 2, visible light.](https://flic.kr/p/2hmuPTu)
+
+[Aba Panu Thin Section 2, cross-polarized light.](https://flic.kr/p/2hmuP9y)
+
+### Northwest Africa 960.
+
+[Northwest Africa 960 Thin Section, visible light.](https://flic.kr/p/2hZ5wz2)
+
+[Northwest Africa 960 Thin Section, cross-polarized light.](https://flic.kr/p/2hZ1Shc)
+
 ### Northwest Africa 8038.
 
-[Northwest Africa 8038 Thin Section, cross-polarized.](https://flic.kr/p/2iaCfcE)
+[Northwest Africa 8038 Thin Section, cross-polarized light.](https://flic.kr/p/2iaCfcE)
 
-### 
+### Northwest Africa 5239.
 
-[Northwest Africa 5239 Thin Section, cross-polarized.](https://flic.kr/p/2hxmmT8)
+[Northwest Africa 5239 Thin Section, cross-polarized light.](https://flic.kr/p/2hxmmT8)
 
-###
+### Northwest Africa 2086.
 
-[Northwest Africa 2086 Thin Section, cross-polarized.](https://flic.kr/p/2hMgmkW)
+[Northwest Africa 2086 Thin Section, cross-polarized light.](https://flic.kr/p/2hMgmkW)
 
-###
+### Northwest Africa 12590.
 
-[Northwest Africa 12590 Thin Section, cross-polarized.](https://flic.kr/p/2hMgmkW)
+[Northwest Africa 12590 Thin Section, visible light.](https://flic.kr/p/2i2CGyA)
 
-###
+[Northwest Africa 12590 Thin Section, cross-polarized light.](https://flic.kr/p/2i2CF8p)
 
-[Northwest Africa 12590 Thin Section, cross-polarized.](https://flic.kr/p/2hMgmkW)
+### Northwest Africa 801.
+
+[Northwest Africa 801 Thin Section, visible light.](https://flic.kr/p/2hZ5wJW)
+
+[Northwest Africa 801 Thin Section, cross-polarized light.](https://flic.kr/p/2hZ1SC2)
+
+### Northwest Africa 10214.
+
+[Northwest Africa 10214 Thin Section 1, visible light.](https://flic.kr/p/2hDtcJE)
+
+[Northwest Africa 10214 Thin Section 1, cross-polarized light.](https://flic.kr/p/2hDtcDe)
+
+A cross-polarized version of Slide 1 can also be seen in gigapixel resolution [here on Flickr](https://flic.kr/p/UKWmmo).
+
+[Northwest Africa 10214 Thin Section 2, visible light.](https://flic.kr/p/2hDudY2)
+
+[Northwest Africa 10214 Thin Section 2, cross-polarized light.](https://flic.kr/p/2hDtdwG)
+
+### Northwest Africa 4560.
+
+[Northwest Africa 4560 Thin Section, visible light.](https://flic.kr/p/2hWggpn)
+
+[Northwest Africa 4560 Thin Section, cross-polarized light.](https://flic.kr/p/2hWdGMj)
+
+### Northwest Africa 11038.
+
+[Northwest Africa 11038 Thin Section, visible light.](https://flic.kr/p/2hjqKbU)
+
+[Northwest Africa 11038 Thin Section, cross-polarized light.](https://flic.kr/p/2hjqJ12)
+
+A cross-polarized light version of this thin section can also be seen in gigapixel resolution [here on Flickr](https://flic.kr/p/YCgo5U).
+
+### Northwest Africa 6211.
+
+[Northwest Africa 6211 Thin Section, visible light.](https://flic.kr/p/2hjnXwT)
+
+[Northwest Africa 6211 Thin Section, cross-polarized light.](https://flic.kr/p/2hjqHEs)
+
+### Chug Chug 009.
+
+[Chug Chug 009 Thin Section, visible light.](https://flic.kr/p/2iBSdzx)
+
+[Chug Chug 009 Thin Section, cross-polarized light.](https://flic.kr/p/2iBUSPC)
