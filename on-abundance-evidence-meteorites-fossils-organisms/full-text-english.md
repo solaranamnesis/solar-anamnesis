@@ -1486,7 +1486,7 @@ An excellent preserved specimen found only in the Northwest Africa 8773 Meteorit
 
 https://flic.kr/p/2hdewhL
 
-Single specimen found in the Northwest Africa 11344 Meteorite thin section. It appears to have excellent preservation; the inclusions profile appears quite striking and resembles a polycistine, perhaps a Radiolarian. The black interior mesh of a non-olivine appears to be organized, containing transverse structures located in the interlaced olivine. On high magnification spines, or barbs appear to emanate from the dark secondary structure in the central region of the ellipse shaped section. See the stitched combination of [Image 8, 9, 10](https://flic.kr/p/2hdewe9), look closely at the center-left area and you will see them.
+Single specimen found in the Northwest Africa 11344 Meteorite thin section. It appears to have excellent preservation; the inclusions' profile appears quite striking and resembles a polycistine, perhaps a Radiolarian. The black interior mesh of a non-olivine appears to be organized, containing transverse structures located in the interlaced olivine. On high magnification spines, or barbs appear to emanate from the dark secondary structure in the central region of the ellipse shaped section. See the stitched combination of [Image 8, 9, 10](https://flic.kr/p/2hdewe9), look closely at the center-left area and you will see them.
 
 [_For the full Annotated Album visit this link._](https://flic.kr/s/aHBqjAFsqx)
 
