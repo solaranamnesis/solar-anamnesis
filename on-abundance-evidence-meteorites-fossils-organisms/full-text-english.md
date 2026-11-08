@@ -1504,25 +1504,25 @@ For the full Annotated Album: https://flic.kr/s/aHBqjAFsqx
 
 [Link to the Flickr Album for the Korra Korrabes Meteorite Thin Section Images.](https://flic.kr/s/aHskQeeB9a)
 
-Compare with Table 2 from _Über einige Bryozoen aus dem deutschen Unteroligozän_ by August Emanuel von Reuss.
+Compare the inclusions with Table 2 from _Über einige Bryozoen aus dem deutschen Unteroligozän_ by August Emanuel von Reuss.
 
 ## Moorabie.
 
 [Link to the Flickr Album for the Moorabie Meteorite Thin Section Images.](https://flic.kr/s/aHBqjD8AXm)
 
-Compare with Table 2 from _Über einige Bryozoen aus dem deutschen Unteroligozän_ by August Emanuel von Reuss.
+Compare the inclusions with Table 2 from _Über einige Bryozoen aus dem deutschen Unteroligozän_ by August Emanuel von Reuss.
 
 ## Northwest Africa 7302.
 
 [Link to Image of Northwest Africa 7302 Thin Section on Flickr.](https://flic.kr/p/2hWGYQd)
 
-Compare with [Figure 7](https://archive.org/details/guidetofossilinv00brit/page/28/mode/1up) from "A Guide to the Fossil Invertebrate Animals in the Department of Geology and Palaeontology in the British Museum of Natural History" entitled "Radiolarian rock from the Lower Culm at Carzantic Quarry, near Launceston, Cornwall."
+Compare entire matrix and inclusions with [Figure 7](https://archive.org/details/guidetofossilinv00brit/page/28/mode/1up) from "A Guide to the Fossil Invertebrate Animals in the Department of Geology and Palaeontology in the British Museum of Natural History" entitled "Radiolarian rock from the Lower Culm at Carzantic Quarry, near Launceston, Cornwall."
 
 ## Northwest Africa 12692.
 
 [Link to the Flickr Album for the Northwest Africa 12692 Meteorite Thin Section Images.](https://flic.kr/s/aHsmW5E3g5)
 
-Compare with Table 2 from _Über einige Bryozoen aus dem deutschen Unteroligozän_ by August Emanuel von Reuss.
+Compare the inclusions with Table 2 from _Über einige Bryozoen aus dem deutschen Unteroligozän_ by August Emanuel von Reuss.
 
 ## Northwest Africa 2892.
 
@@ -1591,6 +1591,10 @@ Compare with Table 2 from _Über einige Bryozoen aus dem deutschen Unteroligozä
 ## Murchison.
 
 [Link to the Flickr Album for the Murchison Meteorite Thin Section Images.](https://flic.kr/s/aHBqjD8CTG)
+
+## Northwest Africa 6445
+
+[Link to the Flickr Album for the Northwest Africa 6445 Meteorite Thin Section Images.](https://flic.kr/s/aHskL7RFi4)
 
 ## Northwest Africa 8345.
 
