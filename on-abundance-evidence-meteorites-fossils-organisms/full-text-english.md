@@ -1701,3 +1701,9 @@ A cross-polarized light version of this thin section can also be seen in gigapix
 [Northwest Africa 5910 Thin Section, visible light.](https://flic.kr/p/2iaEDnS)
 
 [Northwest Africa 5910 Thin Section, cross-polarized light.](https://flic.kr/p/2iaFJYF)
+
+### Northwest Africa 5677.
+
+[Northwest Africa 5677 Thin Section, visible light.](https://flic.kr/p/2iaEDsG)
+
+[Northwest Africa 5677 Thin Section, cross-polarized light.](https://flic.kr/p/2iaFK4v)
