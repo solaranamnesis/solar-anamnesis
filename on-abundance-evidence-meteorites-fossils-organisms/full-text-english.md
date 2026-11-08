@@ -1606,6 +1606,10 @@ Compare the inclusions with Table 2 from _Über einige Bryozoen aus dem deutsche
 
 [Link to the Flickr Album for the Northwest Africa 8345 Meteorite Thin Section Images.](https://flic.kr/s/aHsmzvY66B)
 
+## Calama 005.
+
+[Link to the Flickr Album for the Calama 005 Meteorite Thin Section Images.](https://flic.kr/s/aHskPf3qdY)
+
 # Appendix.
 
 ## Additional scanned Meteorite Thin-Sections.
