@@ -1616,4 +1616,22 @@ Compare the inclusions with Table 2 from _Über einige Bryozoen aus dem deutsche
 
 [Link to Entire Thin Section Collection scanned with Pathscan Enabler 5.](https://flic.kr/s/aHsmHp1vQd)
 
-...
+### Northwest Africa 8038.
+
+[Northwest Africa 8038 Thin Section, cross-polarized.](https://flic.kr/p/2iaCfcE)
+
+### 
+
+[Northwest Africa 5239 Thin Section, cross-polarized.](https://flic.kr/p/2hxmmT8)
+
+###
+
+[Northwest Africa 2086 Thin Section, cross-polarized.](https://flic.kr/p/2hMgmkW)
+
+###
+
+[Northwest Africa 12590 Thin Section, cross-polarized.](https://flic.kr/p/2hMgmkW)
+
+###
+
+[Northwest Africa 12590 Thin Section, cross-polarized.](https://flic.kr/p/2hMgmkW)
