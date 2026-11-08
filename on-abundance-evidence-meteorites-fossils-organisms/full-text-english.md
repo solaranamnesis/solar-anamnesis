@@ -1504,9 +1504,13 @@ For the full Annotated Album: https://flic.kr/s/aHBqjAFsqx
 
 [Link to the Flickr Album for the Korra Korrabes Meteorite Thin-Section Images.](https://flic.kr/s/aHskQeeB9a)
 
+Compare with Table 2 from _Über einige Bryozoen aus dem deutschen Unteroligozän_ by August Emanuel von Reuss.
+
 ## Moorabie.
 
 [Link to the Flickr Album for the Moorabie Meteorite Thin-Section Images.](https://flic.kr/s/aHBqjD8AXm)
+
+Compare with Table 2 from _Über einige Bryozoen aus dem deutschen Unteroligozän_ by August Emanuel von Reuss.
 
 ## Northwest Africa 7302.
 
@@ -1517,6 +1521,8 @@ Compare with [Figure 7](https://archive.org/details/guidetofossilinv00brit/page/
 ## Northwest Africa 12692.
 
 [Link to the Flickr Album for the Northwest Africa 12692 Meteorite Thin-Section Images.](https://flic.kr/s/aHsmW5E3g5)
+
+Compare with Table 2 from _Über einige Bryozoen aus dem deutschen Unteroligozän_ by August Emanuel von Reuss.
 
 ## Northwest Africa 2892.
 
