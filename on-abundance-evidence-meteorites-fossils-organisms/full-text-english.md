@@ -239,7 +239,7 @@ My full setup included a metallurgical OMAX microscope using the 4x/0.25 Objecti
 
 [Gigapixel Meteorite Photomicrographs Album Online at Flickr.](https://flic.kr/s/aHskNcCAmj)
 
-Then, in the carbonaceous meteorites --- the dark, carbon-rich kind --- I began to notice things. Small forms inside the inclusions, recurring from stone to stone. Shapes that looked, to my eyes, organic. See this [Carbonaceous Meteorite image Album](https://flic.kr/s/aHsmwq2JZg) for your own inspection of what I mean, as a picture indeed is worth thousands of words.
+Then, in the carbonaceous meteorites --- the dark, carbon-rich kind --- I began to notice things. Small forms inside the inclusions, recurring from stone to stone. Shapes that looked, to my eyes, organic. See this [Carbonaceous Meteorite image Album](https://flic.kr/s/aHsmwq2JZg) for your own inspection of what I mean, as a picture indeed is worth thousands of words. Also, notice the tiny dark shapes inside the clear olivine inclusions in [Northwest Africa Meteorite 2364 Thin Sections](https://flic.kr/s/aHsmyPcmcs), viz. [Image 8](https://flic.kr/p/23s5ZCz).
 
 My first explanation was the sensible one: contamination. Something got into the stone or the slide during cutting and grinding. That is what anyone would think. So I noted it and moved on to the next stone. But the forms kept appearing, in independent stones prepared independently.
 
