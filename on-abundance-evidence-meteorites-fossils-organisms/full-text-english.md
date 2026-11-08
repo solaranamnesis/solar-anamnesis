@@ -1704,6 +1704,38 @@ A cross-polarized light version of this thin section can also be seen in gigapix
 
 ### Northwest Africa 5677.
 
-[Northwest Africa 5677 Thin Section, visible light.](https://flic.kr/p/2iaEDsG)
+[Northwest Africa 5677 Thin Section 1, visible light.](https://flic.kr/p/2iaEDsG)
 
-[Northwest Africa 5677 Thin Section, cross-polarized light.](https://flic.kr/p/2iaFK4v)
+[Northwest Africa 5677 Thin Section 1, cross-polarized light.](https://flic.kr/p/2iaFK4v)
+
+[Northwest Africa 5677 Thin Section 2, visible light.](https://flic.kr/p/2iG7uJK)
+
+[Northwest Africa 5677 Thin Section 2, cross-polarized light.](https://flic.kr/p/2iGbHi8)
+
+### Northwest Africa 7171.
+
+[Northwest Africa 7171 Thin Section, visible light.](https://flic.kr/p/2iSEYPY)
+
+[Northwest Africa 7171 Thin Section, cross-polarized light.](https://flic.kr/p/2iSAAw5)
+
+### Northwest Africa 12009.
+
+[Northwest Africa 12009 Thin Section, visible light.](https://flic.kr/p/2iSDo1R)
+
+[Northwest Africa 12009 Thin Section, cross-polarized light.](https://flic.kr/p/2iSEXc9)
+
+### Northwest Africa 5205.
+
+[Northwest Africa 5205 Thin Section 1, visible light.](https://flic.kr/p/2hppmyG)
+
+[Northwest Africa 5205 Thin Section 1, cross-polarized light.](https://flic.kr/p/2hpoueN)
+
+[Northwest Africa 5205 Thin Section 2, visible light.](https://flic.kr/p/2hqDfh9)
+
+[Northwest Africa 5205 Thin Section 2, cross-polarized light.](https://flic.kr/p/2hqDfRa)
+
+### Northwest Africa 4216.
+
+[Northwest Africa 4216 Thin Section, visible light.](https://flic.kr/p/2hisyF6)
+
+[Northwest Africa 4216 Thin Section, cross-polarized light.](https://flic.kr/p/2hisytC)
