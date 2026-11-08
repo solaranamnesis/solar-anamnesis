@@ -656,7 +656,7 @@ The trajectory analysis then assembles the distant observations (Ungvár, Gálsz
 
 #### Assessment.
 
-For the present work, Haidinger's testimony performs four functions. First, the certification function: Knyahinya is placed beyond all question as an authentic fall of extraterrestrial material, with a completeness of documentation --- signed protocols, time-certifications by compared watches, mapped find-points with weights, and an excavation narrative of the largest stone --- that leaves nothing of Biot's standard unmet and that fixes, uniquely among the witnesses of this section, the physical chain of custody of the specific stones (the 550-pound mass reassembled in the Hof-Mineralienkabinett; the parcels of Negedlo, Kistler, Riczko, and the Egger specimens) from which the thin-section material of the fossil controversy would in the following decade be prepared. Hahn's chapter in this work, and the claims of his critics, must in fairness be cited back to this record: what the stones were, when they fell, who handled them, and how they were curated thereafter are all here. Second, the thermal record --- ice-cold, lukewarm, and stove-hot testimonies side by side --- honestly complicates the Helmholtz-Thomson-Daubrée consensus on momentary heating while confirming its central term: heat effects confined to the crust, volatiles and odors surviving in the interior. Third, the methodological precedent: the destruction of press fables, the insistence on individual deposition against "the 'great,' the 'general,'" and the exposure of misidentified slags together constitute the first extended demonstration, within the meteoritic literature itself, of the discriminations (authenticity, provenance, contamination, non-meteoric imposture) that would be demanded of every later claim of extraordinary content in a meteorite --- the fossil claims included. Fourth --- and this the present work must state with particular plainness --- the reports also define the limitation of the fossil argument's chemical support. Haidinger's stones are ordinary chondrites, akin by their "marbled" sliced appearance to Parnallee (and Daubrée, in the Nachschrift to the first report, notes the same affinity for the contemporary Saint-Mesmin fall); they contain, in the analyses of this period, no organic carbon worth the name. The abundant organic-chemical evidence assembled earlier in this section belongs to the carbonaceous stones --- Alais, Cold Bokkeveldt, Kaba, Orgueil --- while the claimed fossils were reported from the ordinary chondrites, Knyahinia above all. The two bodies of evidence, so often rhetorically merged by the advocates of the fossil interpretation, are in the primary record disjoint: the stones that contain the carbon are not the stones in which the structures were claimed. Any judgement the present work renders must therefore keep the chemical witnesses and the petrographic witnesses in separate dockets, and Haidinger's meticulous certification of Knyahinya --- by excluding every terrestrial doubt about the material itself --- throws that separation into the sharpest possible relief.
+For the present work, Haidinger's testimony performs four functions. First, the certification function: Knyahinya is placed beyond all question as an authentic fall of extraterrestrial material, with a completeness of documentation --- signed protocols, time-certifications by compared watches, mapped find-points with weights, and an excavation narrative of the largest stone --- that leaves nothing of Biot's standard unmet and that fixes, uniquely among the witnesses of this section, the physical chain of custody of the specific stones (the 550-pound mass reassembled in the Hof-Mineralienkabinett; the parcels of Negedlo, Kistler, Riczko, and the Egger specimens) from which the thin section material of the fossil controversy would in the following decade be prepared. Hahn's chapter in this work, and the claims of his critics, must in fairness be cited back to this record: what the stones were, when they fell, who handled them, and how they were curated thereafter are all here. Second, the thermal record --- ice-cold, lukewarm, and stove-hot testimonies side by side --- honestly complicates the Helmholtz-Thomson-Daubrée consensus on momentary heating while confirming its central term: heat effects confined to the crust, volatiles and odors surviving in the interior. Third, the methodological precedent: the destruction of press fables, the insistence on individual deposition against "the 'great,' the 'general,'" and the exposure of misidentified slags together constitute the first extended demonstration, within the meteoritic literature itself, of the discriminations (authenticity, provenance, contamination, non-meteoric imposture) that would be demanded of every later claim of extraordinary content in a meteorite --- the fossil claims included. Fourth --- and this the present work must state with particular plainness --- the reports also define the limitation of the fossil argument's chemical support. Haidinger's stones are ordinary chondrites, akin by their "marbled" sliced appearance to Parnallee (and Daubrée, in the Nachschrift to the first report, notes the same affinity for the contemporary Saint-Mesmin fall); they contain, in the analyses of this period, no organic carbon worth the name. The abundant organic-chemical evidence assembled earlier in this section belongs to the carbonaceous stones --- Alais, Cold Bokkeveldt, Kaba, Orgueil --- while the claimed fossils were reported from the ordinary chondrites, Knyahinia above all. The two bodies of evidence, so often rhetorically merged by the advocates of the fossil interpretation, are in the primary record disjoint: the stones that contain the carbon are not the stones in which the structures were claimed. Any judgement the present work renders must therefore keep the chemical witnesses and the petrographic witnesses in separate dockets, and Haidinger's meticulous certification of Knyahinya --- by excluding every terrestrial doubt about the material itself --- throws that separation into the sharpest possible relief.
 
 ---
 
@@ -904,7 +904,7 @@ Gümbel's lecture _Über die in Bayern gefundenen Steinmeteoriten_, delivered to
 
 #### The five Bavarian falls, and the petrographic unity they establish.
 
-The body of the lecture treats the five stone meteorites known from Bavarian territory --- Mauerkirchen (20 November 1768), Eichstädt (19 February 1785), Massing (13 December 1803), Schönenberg (25 December 1846), and Krähenberg (5 May 1869) --- together with a documented sixth, the great Würzburg stone of 1103 or 1104 (four men could scarcely carry a quarter of it, by Schnurrer's account), which hung in the Schottenkloster until its modern disappearance and was probably an iron. For each stone, Gümbel assembles the historical record of the fall (through Chladni, Imhof's protocols of 1803–4, Schafhäutl's descriptions, Neumayer, Weiss, and vom Rath), presents his own thin-section petrography, and adds the quantitative analyses executed by his assistant Ad. Schwager --- in several cases (Schönenberg entirely; the separated chondrules of Eichstädt; the dark clasts of Krähenberg; the isolated chrome-iron of L'Aigle) for the first time. The individual results are various --- Mauerkirchen proving a silica-poorest chondrite with a documented disagreement with Crook's analysis that Gümbel refers, instructively, to the heterogeneity of small samples and "the greatest irregularity in the distribution of the constituents"; Eichstädt pronounced "the Typeus" of the chondritic structure, its chondren shown by direct separated analysis to have nearly the composition of the whole stone; Massing reclassified from the howardites toward the eucrites on its feldspar richness; Krähenberg with its "smallpox-scarred" surface, its vom Rath and Keller analyses reconciled by clast heterogeneity, and its dark putzen proving calcium-rich clasts of exceptional composition --- but the lecture's conclusion from them is one of unity: "the composition and the structure of all these stones are so agreeing that we can hardly question further the common origin and the primordial cohesiveness of all this kind of meteorites --- if not of all."
+The body of the lecture treats the five stone meteorites known from Bavarian territory --- Mauerkirchen (20 November 1768), Eichstädt (19 February 1785), Massing (13 December 1803), Schönenberg (25 December 1846), and Krähenberg (5 May 1869) --- together with a documented sixth, the great Würzburg stone of 1103 or 1104 (four men could scarcely carry a quarter of it, by Schnurrer's account), which hung in the Schottenkloster until its modern disappearance and was probably an iron. For each stone, Gümbel assembles the historical record of the fall (through Chladni, Imhof's protocols of 1803–4, Schafhäutl's descriptions, Neumayer, Weiss, and vom Rath), presents his own thin section petrography, and adds the quantitative analyses executed by his assistant Ad. Schwager --- in several cases (Schönenberg entirely; the separated chondrules of Eichstädt; the dark clasts of Krähenberg; the isolated chrome-iron of L'Aigle) for the first time. The individual results are various --- Mauerkirchen proving a silica-poorest chondrite with a documented disagreement with Crook's analysis that Gümbel refers, instructively, to the heterogeneity of small samples and "the greatest irregularity in the distribution of the constituents"; Eichstädt pronounced "the Typeus" of the chondritic structure, its chondren shown by direct separated analysis to have nearly the composition of the whole stone; Massing reclassified from the howardites toward the eucrites on its feldspar richness; Krähenberg with its "smallpox-scarred" surface, its vom Rath and Keller analyses reconciled by clast heterogeneity, and its dark putzen proving calcium-rich clasts of exceptional composition --- but the lecture's conclusion from them is one of unity: "the composition and the structure of all these stones are so agreeing that we can hardly question further the common origin and the primordial cohesiveness of all this kind of meteorites --- if not of all."
 
 #### The theory of the chondrites.
 
@@ -1438,7 +1438,7 @@ SEM output in Plates 30 and 31 shows structures with morphologies similar to ter
 
 # Annotated Microphotographs and Illustrations.
 
-This section differs fundamentally from the preceding witnesses: it represents contemporary direct documentation using modern technology and focus stacking software. Where Hahn (1880) and Weinland (1882) claimed observation without modern imaging capacity, these annotations derive from thin-section microscopy with cross-polarized light analysis and digital documentation. The methodological advance is substantial, though the fundamental interpretive challenge remains identical to their era: distinguishing biogenic morphology from abiogenic crystal habit.
+This section differs fundamentally from the preceding witnesses: it represents contemporary direct documentation using modern technology and focus stacking software. Where Hahn (1880) and Weinland (1882) claimed observation without modern imaging capacity, these annotations derive from thin section microscopy with cross-polarized light analysis and digital documentation. The methodological advance is substantial, though the fundamental interpretive challenge remains identical to their era: distinguishing biogenic morphology from abiogenic crystal habit.
 
 ## Structure A.
 
@@ -1490,59 +1490,59 @@ For the full Annotated Album: https://flic.kr/s/aHBqjAFsqx
 
 ## Knyahinya.
 
-[Link to the Flickr Album for the Knyahinya Meteorite Thin-Section Images.](https://flic.kr/s/aHBqjzz9zB)
+[Link to the Flickr Album for the Knyahinya Meteorite Thin Section Images.](https://flic.kr/s/aHBqjzz9zB)
 
 ## Julesberg.
 
-[Link to the Flickr Album for the Julesburg Meteorite Thin-Section Images.](https://flic.kr/s/aHsmGQDviP)
+[Link to the Flickr Album for the Julesburg Meteorite Thin Section Images.](https://flic.kr/s/aHsmGQDviP)
 
 ## Saratov.
 
-[Link to the Flickr Album for the Saratov Meteorite Thin-Section Images.](https://flic.kr/s/aHskQsA5Jn)
+[Link to the Flickr Album for the Saratov Meteorite Thin Section Images.](https://flic.kr/s/aHskQsA5Jn)
 
 ## Korra Korrabes.
 
-[Link to the Flickr Album for the Korra Korrabes Meteorite Thin-Section Images.](https://flic.kr/s/aHskQeeB9a)
+[Link to the Flickr Album for the Korra Korrabes Meteorite Thin Section Images.](https://flic.kr/s/aHskQeeB9a)
 
 Compare with Table 2 from _Über einige Bryozoen aus dem deutschen Unteroligozän_ by August Emanuel von Reuss.
 
 ## Moorabie.
 
-[Link to the Flickr Album for the Moorabie Meteorite Thin-Section Images.](https://flic.kr/s/aHBqjD8AXm)
+[Link to the Flickr Album for the Moorabie Meteorite Thin Section Images.](https://flic.kr/s/aHBqjD8AXm)
 
 Compare with Table 2 from _Über einige Bryozoen aus dem deutschen Unteroligozän_ by August Emanuel von Reuss.
 
 ## Northwest Africa 7302.
 
-[Link to Image of Northwest Africa 7302 Thin-Section on Flickr.](https://flic.kr/p/2hWGYQd)
+[Link to Image of Northwest Africa 7302 Thin Section on Flickr.](https://flic.kr/p/2hWGYQd)
 
 Compare with [Figure 7](https://archive.org/details/guidetofossilinv00brit/page/28/mode/1up) from "A Guide to the Fossil Invertebrate Animals in the Department of Geology and Palaeontology in the British Museum of Natural History" entitled "Radiolarian rock from the Lower Culm at Carzantic Quarry, near Launceston, Cornwall."
 
 ## Northwest Africa 12692.
 
-[Link to the Flickr Album for the Northwest Africa 12692 Meteorite Thin-Section Images.](https://flic.kr/s/aHsmW5E3g5)
+[Link to the Flickr Album for the Northwest Africa 12692 Meteorite Thin Section Images.](https://flic.kr/s/aHsmW5E3g5)
 
 Compare with Table 2 from _Über einige Bryozoen aus dem deutschen Unteroligozän_ by August Emanuel von Reuss.
 
 ## Northwest Africa 2892.
 
-[Link to the Flickr Album for the Northwest Africa 2892 Meteorite Thin-Section Images.](https://flic.kr/s/aHsmJxR2W1)
+[Link to the Flickr Album for the Northwest Africa 2892 Meteorite Thin Section Images.](https://flic.kr/s/aHsmJxR2W1)
 
 ## Northwest Africa 4910.
 
-[Link to the Flickr Album for the Northwest Africa 4910 Meteorite Thin-Section Images.](https://flic.kr/s/aHsmvSQVdB)
+[Link to the Flickr Album for the Northwest Africa 4910 Meteorite Thin Section Images.](https://flic.kr/s/aHsmvSQVdB)
 
 ## Northwest Africa 7859.
 
-[Link to the Flickr Album for the Northwest Africa 7859 Meteorite Thin-Section Images.](https://flic.kr/s/aHsmMsArha)
+[Link to the Flickr Album for the Northwest Africa 7859 Meteorite Thin Section Images.](https://flic.kr/s/aHsmMsArha)
 
 ## Northwest Africa 11344.
 
-[Link to the Flickr Album for the Northwest Africa 11344 Meteorite Thin-Section Images.](https://flic.kr/s/aHsmGPJvgG)
+[Link to the Flickr Album for the Northwest Africa 11344 Meteorite Thin Section Images.](https://flic.kr/s/aHsmGPJvgG)
 
 ## Dar al Gani 1040.
 
-[Link to the Flickr Album for the Dar al Gani Meteorite Thin-Section Images.](https://flic.kr/s/aHsmECrGNj)
+[Link to the Flickr Album for the Dar al Gani Meteorite Thin Section Images.](https://flic.kr/s/aHsmECrGNj)
 
 ## Allende.
 
@@ -1550,31 +1550,31 @@ Compare with Table 2 from _Über einige Bryozoen aus dem deutschen Unteroligozä
 
 ## Northwest Africa 10669.
 
-[Link to the Flickr Album for the Northwest Africa 10669 Meteorite Thin-Section Images.](https://flic.kr/s/aHsmvNmFsa)
+[Link to the Flickr Album for the Northwest Africa 10669 Meteorite Thin Section Images.](https://flic.kr/s/aHsmvNmFsa)
 
 ## Northwest Africa 5930.
 
-[Link to the Flickr Album for the Northwest Africa 5930 Meteorite Thin-Section Images.](https://flic.kr/s/aHsmJQ8u7A)
+[Link to the Flickr Album for the Northwest Africa 5930 Meteorite Thin Section Images.](https://flic.kr/s/aHsmJQ8u7A)
 
 ## Northwest Africa 7171.
 
-[Link to the Flickr Album for the Northwest Africa 7171 Meteorite Thin-Section Images.](https://flic.kr/s/aHBqjD8CRN)
+[Link to the Flickr Album for the Northwest Africa 7171 Meteorite Thin Section Images.](https://flic.kr/s/aHBqjD8CRN)
 
 ## Northwest Africa 8773.
 
-[Link to the Flickr Album for the Northwest Africa 8773 Meteorite Thin-Section Images.](https://flic.kr/s/aHsmGQWieE)
+[Link to the Flickr Album for the Northwest Africa 8773 Meteorite Thin Section Images.](https://flic.kr/s/aHsmGQWieE)
 
 ## Northwest Africa 4723.
 
-[Link to the Flickr Album for the Northwest Africa 4723 Meteorite Thin-Section Images.](https://flic.kr/s/aHsmGQZ2Qt)
+[Link to the Flickr Album for the Northwest Africa 4723 Meteorite Thin Section Images.](https://flic.kr/s/aHsmGQZ2Qt)
 
 ## Northwest Africa 2224.
 
-[Link to the Flickr Album for the Northwest Africa 2224 Meteorite Thin-Section Images.](https://flic.kr/s/aHsmwReNDn)
+[Link to the Flickr Album for the Northwest Africa 2224 Meteorite Thin Section Images.](https://flic.kr/s/aHsmwReNDn)
 
 ## Northwest Africa 3118.
 
-[Link to the Flickr Album for the Northwest Africa 3118 Meteorite Thin-Section Images.](https://flic.kr/s/aHBqjD8KQk)
+[Link to the Flickr Album for the Northwest Africa 3118 Meteorite Thin Section Images.](https://flic.kr/s/aHBqjD8KQk)
 
 ...
 
@@ -1582,22 +1582,24 @@ Compare with Table 2 from _Über einige Bryozoen aus dem deutschen Unteroligozä
 
 ## Kainsaz.
 
-[Link to the Flickr Album for the Kainsaz Meteorite Thin-Section Images.](https://flic.kr/s/aHsmoJo3Gw)
+[Link to the Flickr Album for the Kainsaz Meteorite Thin Section Images.](https://flic.kr/s/aHsmoJo3Gw)
 
 ## Moss.
 
-[Link to the Flickr Album for the Moss Meteorite Thin-Section Images.](https://flic.kr/s/aHsmvzoMX8)
+[Link to the Flickr Album for the Moss Meteorite Thin Section Images.](https://flic.kr/s/aHsmvzoMX8)
 
 ## Murchison.
 
-[Link to the Flickr Album for the Murchison Meteorite Thin-Section Images.](https://flic.kr/s/aHBqjD8CTG)
+[Link to the Flickr Album for the Murchison Meteorite Thin Section Images.](https://flic.kr/s/aHBqjD8CTG)
 
-...
+## Northwest Africa 8345.
+
+[Link to the Flickr Album for the Northwest Africa 8345 Meteorite Thin Section Images.](https://flic.kr/s/aHsmzvY66B)
 
 # Appendix.
 
 ## Additional scanned Meteorite Thin-Sections.
 
-[Link to Entire Thin-Section Collection scanned with Pathscan Enabler 5.](https://flic.kr/s/aHsmHp1vQd)
+[Link to Entire Thin Section Collection scanned with Pathscan Enabler 5.](https://flic.kr/s/aHsmHp1vQd)
 
 ...
