@@ -1354,6 +1354,26 @@ Black and white microphotographs, no focus stacking, small photographs, details 
 
 ---
 
+### 1978 - BROWNLEE, D. E.: Microparticle studies by sampling techniques. In: Cosmic Dust (J. A. M. McDonell ed.) 295-336, Wiley-Interscience Publ. Chichester, New York, Brisbane, Toronto, 1978.
+
+...
+
+#### Assessment.
+
+...
+
+---
+
+### 1979 - BROWNLEE, D. E.: Interplanetary Dust: Possible implications for comets and presolar interstellar grains. In: Protostars and Planets (T. Gehrels, ed.), 134-150, 1979.
+
+...
+
+#### Assessment.
+
+...
+
+---
+
 ### 1984 - Pflug, H.D. (1984). Ultrafine structure of the organic matter in meteorites. In Fundamental Studies and the Future of Science, ed. Wickramasinghe, N.C., pp. 24–37. University College Cardiff Press, Cardiff. [Google Scholar](https://scholar.google.com/scholar_lookup?title=Fundamental+Studies+and+the+Future+of+Science&author=Pflug+H.D.&author=Wickramasinghe+N.C.&publication+year=1984&pages=24-37) ISBN 10: 090644957X / ISBN 13: 9780906449578
 
 Murchison, Orgueil, Allende Meteorites; high magnifications; transmission electron microscope; carbonaceous matter appears to be structured; "in situ demineralization of the rock section on a membrane filter"; microprobe techniques to confirm that structures are organic and indigenous to the meteorite; includes spectra showing enrichment of carbon and sulfur; carbonaceous material has Raman spectra with peak about 1610 cm⁻¹ and absorption band around 1430 cm⁻¹; also includes laser mass spectrum, infrared spectrum; Cn,Hm-clusters identified in Laser mass spectra comparable to polymeric substances; ultraviolet spectra has maximum absorption at 225 nm. and features making the results comparable with coal absorption bands; four plates with multiple figures of microphotgraphs obtained in black and white, full page plates, details are clearly seen to be biological in nature and most likely fossilized remains, paper refers to them as "organized elements"; classed as _Murchison A-type_ (±0.5 μm in diameter, "Spheres occuring singly or united in clusters and chains." "...mostly embedded in structured matter of the Murchison B-type and connected with it."), _Murchison B-type_ (50-100 nm. in diameter, "Vesicles connected to each other by filamental tubes." "... ramified to form two- or three dimensional nets."), _Murchison C-type_ (75 nm. in diameter, "Lens-shaped vesicles placed to the top of a stalk."), _Murchison D-type_ and _Orgueil D-type_ ("Particle rod-shaped." "Individuals occasionally united to form bundles."), _Murchison E-type_ (100 nm. in diameter, "Spherical to disk-shaped particles." "Usually many specimens are united to form a cluster."), _Murchison F-type_ (200 nm. in length, 12-15 nm. wide, "Unbranched fibers." "Many of them are packed densely together."); Author states: "My report is restricted to technical information and descriptions and avoids interpretations."
@@ -1361,6 +1381,16 @@ Murchison, Orgueil, Allende Meteorites; high magnifications; transmission electr
 Other important quotes:
 
 "Many specimens of the same morphology occur in the rock. They are so abundant that their mass represents a substantial proportion of the meteorite organic matter."
+
+"Specimens of the same morphology are found in different meteorites that have fallen at different places at different times."
+
+"They [particles] are either included in crystals or embedded in the hydrosilicate matrix being impregnated or encrusted with it."
+
+"Observation in the TEM shows that a considerable portion of the meteorite carbonaceous matter consists of structured particles ranging from 10 to 500 nm. in size."
+
+"The assemblages found in the different meteorites Murchison, Orgueil and Allende are similr in their general features but vary in details."
+
+"Contamination is a serious problem in the microscopical study of meteorites. But in my opinion, the risk of making a mistake about a contaminant is not a plausible reason to leave this subject unexplored."
 
 #### Assessment.
 
