@@ -1346,7 +1346,7 @@ Black and white microphotographs, no focus stacking, small photographs, details 
 
 ### 1975 - [Carbonaceous Meteorites](https://catalog.hathitrust.org/Record/000025259) by Bartholomew Nagy
 
-...
+A masterpiece, seminal and groundbreaking; containing everything I would like to include in this paper and more on the analysis of carbonaceous meteorites; preface by Harold Urey; 747 pages; 110 figures in black and white; readers who enjoy the current paper should be sure to read through this entire work by Nagy;
 
 #### Assessment.
 
