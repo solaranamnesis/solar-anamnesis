@@ -1526,7 +1526,7 @@ The witness has genuine value for our paper, of a historiographical kind. It exh
 
 ### 2020 - [The Orgueil meteorite (Atlas of microfossils)](https://www.researchgate.net/publication/349917258_The_Orgueil_meteorite_Atlas_of_microfossils) by Richard Brice Hoover
 
-Richard B. Hoover 2020: The Orgueil Meteorite --- An Atlas of Microfossils.
+#### Richard B. Hoover 2020: The Orgueil Meteorite --- An Atlas of Microfossils.
 
 The circle that closed prospectively at the end of the 1986 installment now closes in fact. The first-named author of _Diatoms on Earth, Comets, Europa and in Interstellar Space_ returns, thirty-four years on, to the original theater of the whole tradition --- the Orgueil stone of Berzelius, Cloëz and the Academy dossier --- and renew's Hahn's claim in its boldest modern form. Where Hahn ground five hundred and sixty sections by hand, Hoover arrays what he describes as sixteen years of collaborative work in the United States and Russia, thousands of high-resolution scanning electron micrographs and energy-dispersive X-ray analyses of mineral grains and microfossils in situ in Orgueil "and many other carbonaceous meteorites." The instrumentarium exceeds Pflug's as Pflug's exceeded Hahn's; the structural position, however, is the oldest in our series: the claimant-observer, one who asserts observation rather than inference. The atlas can be read doubly: as a technical dossier, and as the culminating document of a half-century of advocacy. Both readings instruct.
 
