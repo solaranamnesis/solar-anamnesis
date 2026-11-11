@@ -1566,7 +1566,7 @@ The series thus ends nearly where it began, in the Orgueil stone itself, Alais a
 
 # Annotated Microphotographs and Illustrations.
 
-This section differs fundamentally from the preceding witnesses: it represents contemporary direct documentation using modern technology and focus stacking software. Where Hahn (1880) and Weinland (1882) claimed observation without modern imaging capacity, these annotations derive from thin section microscopy with cross-polarized light analysis and digital documentation. The methodological advance is substantial, though the fundamental interpretive challenge remains identical to their era: distinguishing biogenic morphology from abiogenic crystal habit.
+This section differs fundamentally from the preceding witnesses: it represents contemporary direct documentation using modern technology and focus stacking software. The evidence presented by the author Solar Anamnesis. Where Hahn (1880) and Weinland (1882) claimed observation without modern imaging capacity, these annotations derive from thin section microscopy with cross-polarized light analysis and digital documentation. The methodological advance is substantial, though the fundamental interpretive challenge remains identical to their era: distinguishing biogenic morphology from abiogenic crystal habit.
 
 ## Structure A.
 
