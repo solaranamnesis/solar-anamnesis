@@ -1354,26 +1354,6 @@ A masterpiece, seminal and groundbreaking; containing everything I would like to
 
 ---
 
-### 1978 - BROWNLEE, D. E.: Microparticle studies by sampling techniques. In: Cosmic Dust (J. A. M. McDonell ed.) 295-336, Wiley-Interscience Publ. Chichester, New York, Brisbane, Toronto, 1978.
-
-...
-
-#### Assessment.
-
-...
-
----
-
-### 1979 - BROWNLEE, D. E.: Interplanetary Dust: Possible implications for comets and presolar interstellar grains. In: Protostars and Planets (T. Gehrels, ed.), 134-150, 1979.
-
-...
-
-#### Assessment.
-
-...
-
----
-
 ### 1984 - Pflug, H.D. (1984). Ultrafine structure of the organic matter in meteorites. In Fundamental Studies and the Future of Science, ed. Wickramasinghe, N.C., pp. 24-37. University College Cardiff Press, Cardiff. [Google Scholar](https://scholar.google.com/scholar_lookup?title=Fundamental+Studies+and+the+Future+of+Science&author=Pflug+H.D.&author=Wickramasinghe+N.C.&publication+year=1984&pages=24-37) ISBN 10: 090644957X / ISBN 13: 9780906449578
 
 #### Hans D. Pflug, 1984: Ultrafine Structure of the Organic Matter in Meteorites.
