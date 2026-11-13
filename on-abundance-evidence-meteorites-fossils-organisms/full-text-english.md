@@ -1639,6 +1639,8 @@ Compare the inclusions with Table 2 from _Über einige Bryozoen aus dem deutsche
 
 [Link to the Flickr Album for the Northwest Africa 7859 Meteorite Thin Section Images.](https://flic.kr/s/aHsmMsArha)
 
+As can be seen in [this annotated version](https://flic.kr/p/2oFDYmE) of the cross-polarized gigapixel image, there appears to be at least three large organized structures in this thin section. The largest, in the top-right, distinguishes itself amongst all the specimens observed in the collection. This relatively large and highly articulated inclusion appears to be composed of multiple, distinct parts connected together.
+
 ## Northwest Africa 11344.
 
 [Link to the Flickr Album for the Northwest Africa 11344 Meteorite Thin Section Images.](https://flic.kr/s/aHsmGPJvgG)
