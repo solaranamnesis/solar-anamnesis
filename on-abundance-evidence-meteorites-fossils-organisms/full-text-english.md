@@ -929,6 +929,8 @@ Based on Dr. Otto Hahn's 1879 monograph _Die Urzelle_ and related testimony, the
 
 The argument extends beyond isolated stones to what Hahn treats as systematic continuity: the same Urpflanze ("primeval plant") morphology he claims to find in terrestrial Precambrian rocks (Laurentian gneiss, granite, basalt) appears identically in meteoritic material. Most striking --- and most controversial --- is his reading of the Widmannstätten figures in meteoric iron not as crystallographic phenomena but as "plants and nothing but plants" (Pflanzen und nichts als Pflanzen), specifically naming Astrosideron quenstedti. This parallel between telluric and sidereal formations constitutes the theoretical backbone: if Earth's supposedly abiotic basement rocks are in fact fossil plant-layers, then meteorites, too, must bear organic testimony.
 
+---
+
 ### 1880 - [The Meteorite (Chondrite) and its Organisms](https://github.com/solaranamnesis/ottohahn/tree/master/DIE-METEORITE-(CHONDRITE)-UND-IHRE-ORGANISMEN) by Otto Hahn
 
 #### On the Testimony of Dr. Otto Hahn (1880) concerning Fossil Organisms in the Chondritic Meteorites.
