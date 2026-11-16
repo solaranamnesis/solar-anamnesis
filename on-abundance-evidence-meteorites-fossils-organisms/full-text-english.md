@@ -1471,11 +1471,69 @@ Yet the honest accounting runs the other way as well, and the paper itself furni
 
 ### 1965 - VANLANDINGHAM, S. Evidence for Microfossils in the Alais and Orgueil Carbonaceous Meteorites. Nature 208, 947-948 (1965). https://doi.org/10.1038/208947a0
 
-...
+#### On the Testimony of VanLandingham (1965): The Micropaleontological Confirmation of the Organized Elements.
+
+The modern controversy, opened by the claim of Claus and Nagy and answered by the Chicago counter-examination of Fitch, Schwarcz and Anders, here receives its third act --- and with it a witness of a kind the whole documentary series has until now lacked: a professional micropaleontologist applying to meteorites the standard preparative techniques of his own terrestrial discipline. Sam L. VanLandingham, a student of the microfossil record, did not examine polished sections as Gümbel had, nor strewn powders as the Chicago laboratory had; he _dissolved the stones_. With concentrated hydrofluoric acid, with 6 N hydrochloric acid, with Schulze's solution --- the saturated potassium chlorate and concentrated nitric acid maceration that generations of palynologists had used to liberate organic-walled microfossils from terrestrial shales and cherts --- he isolated the acid-resistant residue of the two foundational stones of this entire series, Alais and Orgueil. In the taxonomy of our witnesses, VanLandingham stands in the line of the claimants: he is a replicative confirmer who arrives from an adjacent discipline, bringing the instruments and, crucially, the _lexicon_ of paleontology rather than of mineralogy. His paper thus consummates at last the crossing that the nineteenth century never achieved: Hahn and Weinland brought zoological eyes to chondrites that contained no chemistry to speak of; VanLandingham brings micropaleontological method to precisely the stones --- the carbonaceous class of Alais and Orgueil --- where Berzelius, Wöhler, Berthelot and Smith had located the organic carbon. The strategic error of the 1880s, which our series has repeatedly lamented, is here repaired.
+
+##### The Method: Palynological Maceration Applied to Meteorites.
+
+The procedural statement deserves quotation in full, for the technique is the argument:
+
+    "A chemical treatment of powdered samples of the Alais and Orgueil carbonaceous chondrites, using concentrated hydrofluoric acid or 6 N hydrochloric acid and/or a solution of saturated potassium chlorates with concentrated nitric acid (Schulze's solution), resulted in the isolation of a number of acid-resistant particles which morphologically resembled organized elements described by Claus and Nagy, Staplin, Timofejev and Palik."
+
+Every clause repays attention. The maceration protocols named are those of the terrestrial palynological canon --- the Schulze oxidation having been devised in the nineteenth century for exactly this purpose: the recovery of organic-walled microfossils from mineral matrices that must be destroyed to yield them. A structure that survives such treatment is, by the working definition of terrestrial micropaleontology, an organic-walled body or its carbonized remnant; mineral silicates and carbonates are not merely outcompeted in this procedure, they are annihilated by it. Whatever the organized elements are, an HF-and-Schulze residue is the one preparation in which the inorganic readings offered by Vogt, and renewed by Fitch, Schwarcz and Anders (troilite globules, sulfur droplets, silicate condensates), _cannot survive_. The reference set against which the recovered particles are compared --- Claus and Nagy, Staplin, Timofejev and Palik --- is likewise the correct comparative apparatus: the affirmative literature of the question, cited as taxonomic precedent rather than as polemical adversary.
+
+##### The Material and Its Chain of Custody.
+
+The provenance is stated with precision:
+
+    "Approximately 670 mg of the Alais meteorite, 470 mg of the Orgueil meteorite … were obtained from Dr. George Claus, New York University. These samples originally came from the American Museum of Natural History, New York, from the Smithsonian Institution, Washington…"
+
+The chain is respectable --- two of the great American collections --- but it must be entered in the ledger with a caution our series has learned from the Haidinger-Hahn episode: the material passed through the hands of the principal claimant, Dr. Claus, before reaching VanLandingham. The Alais sample (470 mg of the stone Berzelius himself analyzed in 1834) places the paper in direct continuity with the founding witness of the series. We note the median position: the museums stand behind the material's identity, but the intermediary is partisan, and the advocate must say so before the reviewer does.
+
+##### The Contamination Accounting.
+
+The paper's treatment of the contamination question is transparent to a degree the nineteenth century never attempted, and it directly answers the null hypothesis constructed by the Chicago critics:
+
+    "A microscopic examination of fifteen slides revealed some terrestrial contaminants. A fungus spore and some spores or pollen grains were noted in the Alais and Orgueil meteorites. The contamination level appeared to be low; only five slides out of the fifteen microscopic preparations showed microstructures that could be identified possibly with recent organisms."
+
+Here the modern Smithian discipline is fully operative: contaminants are not denied, they are _counted_, located, and distinguished from the residue of the affirmative claim. Fifteen preparations searched; five yielding possible recent organisms; the remainder clean. The very form of this accounting --- an explicit partition of the observed population into candidate contaminants and residual forms --- is the contamination-control program of J. Lawrence Smith's 1876 memoir executed with modern thoroughness. The honesty cuts both ways: a fungus spore _was_ found, and pollen-spore identifications _were_ made. The advocate reports this without flinching, for the structure of the argument is unaffected: the question never was whether museums can contaminate stones (they demonstrably can), but whether _all_ observed microstructures can be assigned to that channel.
+
+##### The Thirty Forms and Their Descriptions.
+
+The affirmative yield of the macerations is then catalogued:
+
+    "Figs. 1-4 show photomicrographs of some of the acid-resistant particles separated from the Alais and Orgueil carbonaceous meteorites. Thirty indigenous forms were found. Some of them appear to be identical with microstructures described by earlier investigators."
+
+The descriptive language is recognizably that of the palynologist, and it is worth preserving for the way it contrasts with the geometrical lexicon of the mineralogists:
+
+    "Fig. 1 shows a laminar particle, slightly folded, having a small papilla … from the Alais meteorite … identical with forms described by Claus and Nagy from the Orgueil and Ivuna meteorites."
+
+    "Fig. 2 shows a flat, disk-shaped body with perforations and spines."
+
+    "Fig. 3 shows a spherical body, 28-31μ in diameter…"
+
+    "Fig. 4 shows an oblong body which is punctate to granulose and which has a conspicuous triradiate tubular wall thickening resembling a canal-like structure."
+
+Papillae, perforations, spines, punctate-granulose sculpture, triradiate thickenings --- these are the descriptive terms of terrestrial palynology, applied to bodies recovered from a dissolution procedure that _selects for organic walls_. Fig. 1 carries the further weight of a specific morphological identity across stones: a form identical with those described by Claus and Nagy from Orgueil and Ivuna, here found in _Alais_.
+
+##### The Convergence Argument.
+
+The single most valuable observation for the affirmative case is the one VanLandingham himself isolates as such:
+
+    "The fact that some of the microstructures in the Alais meteorite are identical with those in the Orgueil meteorite (obtained from a different museum) … serves as a further indication of a possible indigenous origin of the microfossils."
+
+The logic is Biot's convergence standard, transmitted intact across a century: two stones, fallen in different years (1821 and 1864), held in different museums, sampled through different chains, yielding the _same_ morphologies --- a coincidence inexplicable on the contamination hypothesis except by positing a common contaminating flora competent to leave identical forms in two protected interiors, and a condensation physics competent to mimic them twice in different parent bodies. The convergence of independently administered observations upon the same forms is, in the evidential doctrine of this series, the strongest signature of a real, recurrent cause.
+
+The paper's own summation, careful to the point of scruple, reads:
+
+    "The work recorded here confirms earlier findings regarding the presence of microstructures in carbonaceous meteorites. These have been identified by some investigators as only biological contaminants. The exact origin of the organized elements is still not known; however, it does not seem to be likely that all microstructures can be accounted for as either recent biological contaminants or mineral artefacts."
 
 #### Assessment.
 
-...
+As advocates we claim for this paper a place no earlier witness occupies: it is the first examination of meteorite matter conducted throughout in the professional idiom and technique of micropaleontology, and the first affirmative study whose material preparation _destroys_ the rival mineralogical readings rather than merely contradicting them. Hydrofluoric and Schulze maceration annihilates silicates, troilite globules and sulfur spherules alike; what remains in such a residue, carrying papillae, spines, perforations and triradiate thickenings, is by the working ontology of terrestrial paleontology either organic-walled or inexplicable. The cross-stone identity of forms between Alais and Orgueil supplies the convergent-proofs structure that Biot taught us to weigh most heavily, and the contamination accounting --- fifteen slides, five suspect, the rest clean --- meets the Chicago critique on its own quantitative ground.
+
+The honest ledger is equally required. The identifications are morphological, resting on the disputed premise that form is probative where chemistry is not --- the exact ground on which the Hahn-Weinland structure failed. The samples passed through the hands of a claimant before reaching the analyst, a custody defect by the standards our series has made its own. "Thirty indigenous forms" in a pooled residue is a small population, magnitudes thinner than the crowded floras of terrestrial preparations; the critics would soon observe that a handful of forms, however sculptured, cannot carry the weight a paleontological reading requires. The author's own conclusion is suitably hedged ("possible indigenous origin"; "does not seem to be likely that all microstructures can be accounted for"), and we render it in his own words rather than ours. Yet the residual claim stands: one laboratory, applying the standing techniques of palynology to the two oldest and best-attested organic stones in the record, after an explicit contamination audit, recovered sculptured acid-resistant microstructures and judged neither contamination nor mineral artifact able to exhaust them. The question Berzelius opened in the very stone here re-examined remains, on this testimony, an open question --- now defended by the palynologist's macerations where once it rested on Berzelius's alkaline extract. The refrain of the series sounds again: the structures are real, resistant, recurrent across stones, and unexhausted by every null hypothesis thus far administered to them.
 
 ---
 
