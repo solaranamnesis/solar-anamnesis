@@ -1369,7 +1369,7 @@ The authors' own hedging --- "possible remnants," "may be microfossils," "appear
 
 ---
 
-### 1962 - Staplin, F. L., "Microfossils from the Orgueil meteorite" _Micropaleontol._, 8, 343 (1962).
+### 1962 - Staplin, Frank L. "Microfossils from the Orgueil Meteorite." Micropaleontology 8, no. 3 (1962): 343–47. https://doi.org/10.2307/1484525
 
 ...
 
@@ -1389,7 +1389,7 @@ The authors' own hedging --- "possible remnants," "may be microfossils," "appear
 
 ---
 
-### Palik, P., _Nature_, 194, 1065 (1962).
+### 1962 - PALIK, P. Further Life-forms in the Orgueil Meteorite. Nature 194, 1065 (1962). https://doi.org/10.1038/1941065b0
 
 ...
 
@@ -1409,7 +1409,7 @@ The authors' own hedging --- "possible remnants," "may be microfossils," "appear
 
 ---
 
-### 1965 - VANLANDINGHAM, S. L., _Nova Hedwigia_, 10, 161 (1965).
+### 1965 - VanLandingham, S.L. (1965) Acid resistant microfossils from the Alais and Orgueil meteorites. _Nova Hedwigia Z Kryptogamenk_ 10(1-2), 161-176 + Plates 144-149.
 
 ...
 
