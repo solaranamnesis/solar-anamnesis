@@ -1361,11 +1361,81 @@ The authors' own hedging --- "possible remnants," "may be microfossils," "appear
 
 ### 1962 - FITCH, F., SCHWARCZ, H. & ANDERS, E. 'Organized Elements' in Carbonaceous Chondrites. Nature 193, 1123-1125 (1962). https://doi.org/10.1038/1931123a0
 
-...
+#### On the Testimony of Fitch, Schwarcz and Anders (1962): The Modern Counter-Examination of the Organized Elements.
+
+With this communication to *Nature* the series passes, for the second time, from the classical nineteenth-century witnesses into the instrumental era --- and this time as adversary. The 1961 claim of Claus and Nagy having reopened, in the very pages of the same journal, the question of organized microstructures in the carbonaceous stones, the response came within the year from the Enrico Fermi Institute of the University of Chicago, the leading geochemical laboratory of the day. In the taxonomy of our witnesses, Fitch, Schwarcz and Anders stand in the adversarial line of Rzehak and Vogt: the examiners who re-observe the claimed objects and offer a rival reading. Yet the paper is unlike anything in the earlier critical tradition, and the difference is the measure of its importance. Rzehak dissolved Hahn's corals into mineralogy; Vogt dissolved them into crystallography; but Fitch, Schwarcz and Anders --- having re-examined the stones themselves --- concede the reality, the extraterrestrial provenance, and the organized character of what they see. The dispute they open is therefore not _whether_ structured microscopic bodies inhabit the carbonaceous chondrites, but *what* those bodies are: a contest of interpretations, not of observations. It is precisely the structure of the 1864-1878 Orgueil controversy reproduced with modern instruments, and for that reason the paper is indispensable to the reception history of the fossil claim.
+
+##### The Confirmation of the Structures.
+
+The authors begin not with denial but with replication. Their opening sentence records that they ---
+
+    "...examined Orgueil and Ivuna meteorite samples from the Paris and Chicago Natural History Museums, and did indeed observe spherical and oval particles quite similar to those shown in Figs. 1-3 of the article by Claus and Nagy."
+
+Three points in this single sentence deserve the advocate's emphasis. First, the material was drawn from two great public collections --- the Muséum national d'Histoire naturelle in Paris, custodian of the Orgueil material descending from the 1864 fall documented in passage 5 of this series, and the Chicago Natural History Museum --- so that the observation rests on the curated provenance chains whose auditability we identified as the modern continuation of the nineteenth-century custody argument. Second, the observation is affirmative: the organized elements of Claus and Nagy were *seen again*, independently, by differently trained eyes, on material from different institutions. Whatever else follows, the existence of a population of discrete, organized, microscopic bodies in the interior matter of the carbonaceous stones was no longer in dispute from the moment this paper appeared. Third, the similarity is conceded explicitly to the claimed type-figures of Claus and Nagy --- a replication in the strictest sense. In this the paper performs the very act the nineteenth century never accomplished for Hahn: an independent laboratory, unaffiliated with the claimants, returning a positive observation on comparable material.
+
+##### The Density Argument.
+
+The core of the critique, however, is physical, and it proceeds from a premise the authors state with exemplary economy. Terrestrial fossils, they observe, typically consist of silica, silicates or carbonates together with organic matter; a fossil permineralized in such fashion has a density bounded above by the mineral substrate (roughly 2.2-3.3) and pulled downward by any organic content (density near 1). An authentic fossil microstructure should therefore sit somewhere between these bounds --- and if it carries appreciable organic matter, well below the mineral maximum. Their separations told otherwise:
+
+    "...the organized elements appeared almost entirely in the heavy fraction (ρ > 2.31)."
+
+and, upon repetition with improved technique:
+
+    "...the organized elements again appeared almost quantitatively in the heavy fractions, comprising less than 5 per cent of the total material,"
+
+with the concentrated material reaching a density
+
+    "greater than 3.33,"
+
+leading to the blunt verdict that
+ 
+    "This high density is unlikely for any silicate or carbonate fossil containing organic matter."
+
+The argument is the modern recasting of Vogt's crystalline rejoinder of 1880: where Vogt compared Hahn's structures against known mineral geometries, Fitch and his colleagues weigh them. It is a formidable argument, and honesty requires that we register it as such. It rests, however, on an assumption silently inherited from the physical outline of the fossil concept --- namely, that a biogenic structure in stone must be mineralized. The terrestrial record knows fossils of pure compressed organic matter (coalified spores, amorphous kerogen bodies) whose densities diverge wildly from any mineral-boundary calculation; and more fundamentally, the premise assumes the extraterrestrial objects obey terrestrial taphonomic rules, which is the very proposition under investigation. The argument constrains, but does not close, the question.
+
+##### The Morphology under the Microscope.
+
+The observational details reported are of the highest interest, for they describe genuine structure rather than formless debris:
+
+    "Some of the organized elements were thin platelets, as could easily be shown by turning them over on their sides, whereas others were spherical or discoidal."
+
+The capacity to _turn an element over on its side_ is the observation of a discrete, mechanically coherent, three-dimensional body --- not a stain, not a diffuse impression, but an object with geometry in all three dimensions. Further, the authors report being able to see a clear double wall in favorable elements, while prudently cautioning that the effect might arise from the adjustment of the microscope focus, and that
+
+    "the 'wall' may actually be an optical illusion."
+
+Here again the advocate notes what the critic concedes: that at the limit of resolution the structures present *diagnostic-looking* features --- walls, bilateral geometry, coherent form --- of a kind that demands explicit caution precisely because they resemble biology so persuasively. The caution is methodologically impeccable; but it is the caution owed to suggestive structure, not the dismissal of absent structure.
+
+##### The Inorganic Reading.
+
+The authors then advance a physical genesis for what they see:
+
+    "A purely inorganic mode of origin seems perfectly possible. Spheroidal or elliptical particles are the equilibrium form for a liquid condensate from a hot gas phase, whereas hexagonal platelets might grow from a gas supercooled below the liquidus."
+
+And the paper closes its examination with a deliberately disjunctive conclusion:
+
+    "We are thus led to the conclusion that the organized elements of Claus and Nagy are either identical with the troilite globules, sulfur droplets, or hydrocarbon droplets, or that they are so scarce in our specimen as to lie below our threshold of detection."
+
+Both branches of this sentence reward attention. The first proposes identity between the organized elements and known inorganic spheroids of the chondritic assemblage --- troilite globules, sulfur droplets, hydrocarbon droplets --- a reading squarely in Vogt's lineage. The second, however, is an _avowal of limitation_: the possibility that the claimed elements were simply rarer than the detection threshold permitted. A critique that ends by conceding it may have missed the objects altogether is a critique still awaiting its completion.
+
+##### Nagy's Intervention: A Discrepancy at the Heart of the Refutation.
+
+There is one further document within the document. A note added in proof records that Professor Nagy, having read the manuscript, responded to the density argument directly:
+
+    "_Note added in proof._ After reading our manuscript, Prof. Nagy kindly pointed out that in contrast to our particles of ρ > 3.33, the organized elements studied by him were of density less than 1.5, since they were recovered in the light fraction of a chloroform density separation."
+
+The significance of this exchange for our thesis can hardly be overstated. The single most powerful argument of the paper --- the density bound --- was formulated against a population of particles of ρ > 3.33; the elements claimed by Claus and Nagy belonged to a light fraction, ρ < 1.5. If Nagy is right, the two laboratories were not examining the same objects at all: the dense spheroids that succumbed to the inorganic reading may be the familiar troilite and sulfide globules of every chondrite, while the low-density, organic-flotation organized elements of the original claim passed through the Chicago separations unmeasured. The authors' own closing disjunction --- the elements either inorganic droplets or below the threshold of detection --- admits as much. A refutation that addresses a different particle population is, in the strict logical sense, no refutation of the claim it answers; it is a rival census of a different neighborhood of the same stones. We do not assert that Nagy was right; we assert that the paper's own text preserves the open boundary between the two populations, and that the modern criticism, in the form here printed, never crossed it.
+
+One further concession stands at the head of the argument and must never be omitted in citation:
+
+    "There is no doubt that the organized elements are extra-terrestrial, as argued by Claus and Nagy."
+
+Whatever the divergences of interpretation that follow, the indigeneity of the organized structures was affirmed by the paper's critics in terms admitting no ambiguity. The oscillation of our series --- observation granted, biology denied --- here resumes its rhythm with modern instruments: the _textures_ are uncontested; the _organisms_ remain undemonstrated to some, while demonstrated to others; and between them lies the same width of paleontological judgement that separated Hahn from his critics, now traversed not by petrographic assertion but by density separations and the optics of immersion mounts.
 
 #### Assessment.
 
-...
+For the advocate of the fossil hypothesis, this paper is the indispensable modern adversary, and it must be presented in its full strength. It replicated the organized elements independently; it subjected them to a quantitative physical criterion --- density --- that the nineteenth century could not have conceived; it proposed a specific, physically literate inorganic genesis (condensate droplets from a cooling gas, crystallization below the liquidus) that accounts for spheroids, discs and platelets alike; and it imposed, by its very rigor, the standard of situational and chemical discrimination that all subsequent claims have had to meet. The affirmative case that ignores this paper is not scholarship.
+
+Yet the honest accounting runs the other way as well, and the paper itself furnishes the materials. The observation of the elements was _confirmed_, from two museum collections, by an unaffiliated laboratory. Their extraterrestrial provenance was affirmed without qualification --- a concession of indigenousness that the whole nineteenth-century controversy over Orgueil's carbon never extracted from its critics. The central density argument was framed against a heavy-fraction population while the claimants' elements were, by the claimants' account, light-fraction bodies of ρ < 1.5 --- so that the critique and the claim may concern distinct populations, and the paper's own concluding disjunction concedes that the claimed elements may have lain below its threshold of detection entirely. And the morphology reported --- coherent, turnable, wall-bearing bodies --- is morphology of the kind that generates the question, not the kind that dissolves it. The verdict our series has consistently rendered applies here in its modern form: the paper establishes, beyond reasonable dispute, that the carbonaceous chondrites contain organized microscopic structures of extraterrestrial origin whose interpretation is contested. It thereby re-instates, with twentieth-century apparatus, precisely the question Berzelius posed in 1834 --- and leaves it, as he left it, open.
 
 ---
 
