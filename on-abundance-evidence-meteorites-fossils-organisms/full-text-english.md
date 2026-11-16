@@ -1361,9 +1361,35 @@ The authors' own hedging --- "possible remnants," "may be microfossils," "appear
 
 ### 1962 - FITCH, F., SCHWARCZ, H. & ANDERS, E. ‘Organized Elements’ in Carbonaceous Chondrites. Nature 193, 1123-1125 (1962). https://doi.org/10.1038/1931123a0
 
-'Organized Elements' terminology used to be more reserved and conservative, compare with Vanlandingham's 1965 title: "Evidence for Microfossils in the Alais and Orgueil Carbonaceous Meteorites."
+...
 
-Black and white microphotographs, no focus stacking, small photographs, details hard to analyze in such a format.
+#### Assessment.
+
+...
+
+---
+
+### 1962 - Staplin, F. L., "Microfossils from the Orgueil meteorite" _Micropaleontol._, 8, 343 (1962).
+
+...
+
+#### Assessment.
+
+...
+
+---
+
+### 1963- B. W. Timofejew (1963) Lebensspuren in Meteoriten. Resultate Einer Microphytologischen Analyse, Grana, 4:1, 92-99, DOI: 10.1080/00173136309437862
+
+...
+
+#### Assessment.
+
+...
+
+---
+
+### Palik, P., _Nature_, 194, 1065 (1962).
 
 ...
 
@@ -1374,6 +1400,16 @@ Black and white microphotographs, no focus stacking, small photographs, details 
 ---
 
 ### 1965 - VANLANDINGHAM, S. Evidence for Microfossils in the Alais and Orgueil Carbonaceous Meteorites. Nature 208, 947-948 (1965). https://doi.org/10.1038/208947a0
+
+...
+
+#### Assessment.
+
+...
+
+---
+
+### 1965 - VANLANDINGHAM, S. L., _Nova Hedwigia_, 10, 161 (1965).
 
 ...
 
