@@ -1409,7 +1409,7 @@ The authors' own hedging --- "possible remnants," "may be microfossils," "appear
 
 ---
 
-### 1965 - VanLandingham, S.L. (1965) Acid resistant microfossils from the Alais and Orgueil meteorites. _Nova Hedwigia Z Kryptogamenk_ 10(1-2), 161-176 + Plates 144-149.
+### 1965 - VanLandingham, S.L. (1965) Acid resistant microfossils from the Alais and Orgueil meteorites. _Nova Hedwigia zeitschrift für Kryptogamenkunde_ 10(1-2), 161-176 + Plates 144-149.
 
 ...
 
