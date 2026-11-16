@@ -1359,7 +1359,7 @@ The authors' own hedging --- "possible remnants," "may be microfossils," "appear
 
 ---
 
-### 1962 - FITCH, F., SCHWARCZ, H. & ANDERS, E. ‘Organized Elements’ in Carbonaceous Chondrites. Nature 193, 1123-1125 (1962). https://doi.org/10.1038/1931123a0
+### 1962 - FITCH, F., SCHWARCZ, H. & ANDERS, E. 'Organized Elements' in Carbonaceous Chondrites. Nature 193, 1123-1125 (1962). https://doi.org/10.1038/1931123a0
 
 ...
 
@@ -1369,7 +1369,7 @@ The authors' own hedging --- "possible remnants," "may be microfossils," "appear
 
 ---
 
-### 1962 - Staplin, Frank L. "Microfossils from the Orgueil Meteorite." Micropaleontology 8, no. 3 (1962): 343–47. https://doi.org/10.2307/1484525
+### 1962 - Staplin, Frank L. "Microfossils from the Orgueil Meteorite." Micropaleontology 8, no. 3 (1962): 343-47. https://doi.org/10.2307/1484525
 
 ...
 
@@ -1379,7 +1379,7 @@ The authors' own hedging --- "possible remnants," "may be microfossils," "appear
 
 ---
 
-### 1963- B. W. Timofejew (1963) Lebensspuren in Meteoriten. Resultate Einer Microphytologischen Analyse, Grana, 4:1, 92-99, DOI: 10.1080/00173136309437862
+### 1963 - B. W. Timofejew (1963) Lebensspuren in Meteoriten. Resultate Einer Microphytologischen Analyse, Grana, 4:1, 92-99, DOI: 10.1080/00173136309437862
 
 ...
 
